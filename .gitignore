@@ -1,0 +1,25 @@
+
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Secrets and API keys
+.streamlit/secrets.toml
+.env
+.env.*
+
+# Local user data
+fitness_history.db
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

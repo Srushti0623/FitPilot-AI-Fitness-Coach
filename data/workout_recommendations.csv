@@ -1,0 +1,1801 @@
+age,weight,goal,level,environment,duration,focus
+21,80.1,Flexibility,Advanced,At home,45,Mobility and flexibility
+51,64.5,Endurance,Beginner,At home,45,Endurance training
+46,48.4,Endurance,Beginner,At the gym,30,Endurance training
+36,81.1,General fitness,Beginner,At home,20,Balanced full-body
+36,116.9,Fat loss,Beginner,At the gym,45,Low-impact cardio
+54,93.9,Muscle building,Intermediate,At the gym,30,Strength training
+21,82.2,Endurance,Advanced,At the gym,45,Endurance training
+47,53.3,Flexibility,Beginner,At home,20,Mobility and flexibility
+26,63.9,General fitness,Intermediate,At home,20,Balanced full-body
+22,67.1,Endurance,Advanced,At home,45,Endurance training
+40,102.4,Fat loss,Advanced,At home,30,Low-impact cardio
+59,110.8,General fitness,Beginner,At home,45,Balanced full-body
+49,112.6,General fitness,Intermediate,At the gym,45,Balanced full-body
+50,118.8,Flexibility,Beginner,At home,30,Mobility and flexibility
+48,118.7,Muscle building,Beginner,At the gym,20,Strength training
+51,116.5,Muscle building,Beginner,At home,20,Strength training
+40,50.4,Muscle building,Intermediate,At home,60,Strength training
+23,55.3,Fat loss,Beginner,At the gym,20,Low-impact cardio
+54,67.8,General fitness,Beginner,At home,45,Balanced full-body
+37,86.5,Endurance,Beginner,At home,60,Endurance training
+39,52.3,Flexibility,Intermediate,At the gym,60,Mobility and flexibility
+33,108.4,Flexibility,Intermediate,At the gym,30,Mobility and flexibility
+25,91.3,Fat loss,Intermediate,At the gym,20,Low-impact cardio
+57,85.7,Muscle building,Beginner,At the gym,60,Strength training
+51,57.4,Muscle building,Intermediate,At the gym,45,Strength training
+45,64.0,Muscle building,Intermediate,At the gym,30,Strength training
+35,57.0,Flexibility,Beginner,At the gym,45,Mobility and flexibility
+53,108.9,Fat loss,Advanced,At home,20,Low-impact cardio
+41,88.8,Fat loss,Advanced,At the gym,45,Endurance training
+37,100.1,Flexibility,Intermediate,At home,45,Mobility and flexibility
+37,67.2,Flexibility,Intermediate,At home,30,Mobility and flexibility
+27,72.8,Muscle building,Advanced,At home,30,Strength training
+21,75.4,Muscle building,Intermediate,At the gym,30,Strength training
+41,102.0,General fitness,Intermediate,At home,20,Balanced full-body
+56,102.9,General fitness,Intermediate,At the gym,20,Balanced full-body
+20,60.5,Flexibility,Beginner,At home,60,Mobility and flexibility
+54,115.6,General fitness,Advanced,At the gym,30,Balanced full-body
+53,54.0,Fat loss,Beginner,At the gym,20,Low-impact cardio
+29,112.2,General fitness,Beginner,At the gym,20,Balanced full-body
+45,52.5,General fitness,Advanced,At home,30,Balanced full-body
+25,64.8,General fitness,Intermediate,At the gym,60,Balanced full-body
+50,108.5,General fitness,Intermediate,At home,30,Balanced full-body
+48,58.5,Flexibility,Beginner,At the gym,60,Mobility and flexibility
+33,76.0,Flexibility,Beginner,At home,30,Mobility and flexibility
+20,78.7,Muscle building,Advanced,At the gym,60,Strength training
+59,63.4,Muscle building,Intermediate,At the gym,60,Strength training
+37,98.3,Endurance,Beginner,At the gym,20,Endurance training
+56,108.9,General fitness,Advanced,At the gym,20,Balanced full-body
+47,110.6,General fitness,Intermediate,At home,60,Balanced full-body
+51,70.4,Fat loss,Advanced,At the gym,60,Endurance training
+50,84.8,Muscle building,Intermediate,At home,20,Strength training
+26,63.6,Endurance,Intermediate,At the gym,45,Endurance training
+33,63.4,Flexibility,Advanced,At home,60,Mobility and flexibility
+38,57.1,Endurance,Advanced,At the gym,60,Endurance training
+39,115.5,Muscle building,Beginner,At the gym,30,Strength training
+19,111.6,Fat loss,Advanced,At the gym,60,Endurance training
+41,103.3,Fat loss,Advanced,At the gym,45,Endurance training
+24,83.8,Muscle building,Intermediate,At home,60,Strength training
+49,81.8,General fitness,Beginner,At the gym,20,Balanced full-body
+47,84.7,Flexibility,Beginner,At the gym,45,Mobility and flexibility
+57,85.2,Flexibility,Beginner,At the gym,20,Mobility and flexibility
+50,77.6,Fat loss,Beginner,At the gym,30,Low-impact cardio
+33,54.9,Endurance,Advanced,At the gym,20,Endurance training
+59,54.4,Muscle building,Advanced,At home,30,Strength training
+35,116.4,Fat loss,Intermediate,At the gym,60,Low-impact cardio
+32,81.2,General fitness,Intermediate,At the gym,45,Balanced full-body
+56,116.5,Fat loss,Advanced,At the gym,30,Low-impact cardio
+33,57.3,Muscle building,Intermediate,At home,30,Strength training
+21,86.6,General fitness,Intermediate,At the gym,30,Balanced full-body
+38,60.6,Muscle building,Intermediate,At the gym,45,Strength training
+52,64.0,General fitness,Beginner,At home,30,Balanced full-body
+26,47.3,General fitness,Beginner,At home,20,Balanced full-body
+37,53.9,Endurance,Intermediate,At home,45,Endurance training
+23,113.8,Fat loss,Advanced,At the gym,60,Endurance training
+47,69.1,Fat loss,Beginner,At home,30,Low-impact cardio
+38,90.6,General fitness,Beginner,At the gym,20,Balanced full-body
+32,79.9,Muscle building,Beginner,At the gym,20,Strength training
+27,75.0,Endurance,Advanced,At home,60,Endurance training
+42,84.9,Fat loss,Intermediate,At home,60,Low-impact cardio
+46,59.0,General fitness,Intermediate,At home,20,Balanced full-body
+58,119.1,Flexibility,Intermediate,At the gym,20,Mobility and flexibility
+36,106.4,Fat loss,Beginner,At home,20,Low-impact cardio
+24,100.6,Muscle building,Advanced,At home,30,Strength training
+53,80.2,Flexibility,Beginner,At home,60,Mobility and flexibility
+45,56.5,General fitness,Beginner,At home,20,Balanced full-body
+48,114.0,Fat loss,Advanced,At the gym,60,Endurance training
+22,70.6,Muscle building,Intermediate,At the gym,20,Strength training
+31,48.8,Endurance,Beginner,At home,45,Endurance training
+51,70.7,Flexibility,Intermediate,At home,30,Mobility and flexibility
+53,104.6,Muscle building,Beginner,At home,60,Strength training
+36,91.7,General fitness,Advanced,At the gym,30,Balanced full-body
+52,101.3,Endurance,Advanced,At home,30,Endurance training
+54,104.5,Fat loss,Beginner,At the gym,20,Low-impact cardio
+34,60.9,Muscle building,Intermediate,At the gym,60,Strength training
+56,114.3,Endurance,Beginner,At home,30,Endurance training
+30,77.8,Fat loss,Intermediate,At home,30,Low-impact cardio
+28,92.9,Endurance,Beginner,At home,45,Endurance training
+47,45.2,General fitness,Beginner,At the gym,45,Balanced full-body
+45,119.5,Flexibility,Intermediate,At home,45,Mobility and flexibility
+24,66.1,Fat loss,Advanced,At home,30,Low-impact cardio
+53,49.7,Flexibility,Advanced,At home,20,Mobility and flexibility
+26,79.4,Muscle building,Beginner,At home,20,Strength training
+52,54.7,Fat loss,Advanced,At home,20,Low-impact cardio
+18,56.4,Endurance,Beginner,At the gym,45,Endurance training
+52,92.4,General fitness,Advanced,At home,45,Balanced full-body
+51,74.5,Flexibility,Beginner,At home,45,Mobility and flexibility
+51,114.1,Fat loss,Intermediate,At home,60,Low-impact cardio
+46,68.9,Fat loss,Beginner,At the gym,20,Low-impact cardio
+38,99.5,General fitness,Advanced,At home,60,Balanced full-body
+48,79.6,Flexibility,Beginner,At home,60,Mobility and flexibility
+29,94.5,General fitness,Advanced,At home,45,Balanced full-body
+51,90.0,Endurance,Beginner,At the gym,45,Endurance training
+41,80.5,Flexibility,Intermediate,At the gym,20,Mobility and flexibility
+37,116.3,Flexibility,Beginner,At the gym,20,Mobility and flexibility
+39,70.7,General fitness,Advanced,At the gym,20,Balanced full-body
+42,58.3,Endurance,Intermediate,At the gym,45,Endurance training
+19,95.9,General fitness,Advanced,At home,30,Balanced full-body
+24,108.5,Endurance,Advanced,At home,20,Endurance training
+28,48.0,General fitness,Intermediate,At home,20,Balanced full-body
+22,78.7,General fitness,Beginner,At the gym,20,Balanced full-body
+36,111.9,General fitness,Beginner,At the gym,45,Balanced full-body
+46,101.2,Endurance,Beginner,At the gym,45,Endurance training
+46,119.4,Endurance,Advanced,At the gym,45,Endurance training
+38,84.9,Flexibility,Advanced,At home,20,Mobility and flexibility
+54,94.5,Endurance,Intermediate,At home,20,Endurance training
+42,67.7,Fat loss,Advanced,At home,20,Low-impact cardio
+21,116.1,General fitness,Beginner,At the gym,60,Balanced full-body
+50,72.5,Muscle building,Advanced,At the gym,45,Strength training
+42,100.4,Fat loss,Intermediate,At home,30,Low-impact cardio
+45,75.2,Fat loss,Beginner,At home,20,Low-impact cardio
+42,87.1,General fitness,Beginner,At the gym,30,Balanced full-body
+41,99.0,Flexibility,Intermediate,At the gym,60,Mobility and flexibility
+21,83.2,General fitness,Intermediate,At the gym,20,Balanced full-body
+42,113.0,General fitness,Beginner,At the gym,60,Balanced full-body
+52,76.4,Fat loss,Intermediate,At home,30,Low-impact cardio
+31,93.5,Endurance,Beginner,At home,20,Endurance training
+43,70.7,Fat loss,Advanced,At the gym,60,Endurance training
+19,75.6,Flexibility,Intermediate,At the gym,45,Mobility and flexibility
+32,78.0,Flexibility,Beginner,At the gym,45,Mobility and flexibility
+36,54.4,Flexibility,Intermediate,At the gym,20,Mobility and flexibility
+60,51.9,Muscle building,Advanced,At the gym,30,Strength training
+27,95.1,Fat loss,Intermediate,At home,45,Low-impact cardio
+29,94.2,Muscle building,Advanced,At home,45,Strength training
+35,94.7,Endurance,Intermediate,At the gym,20,Endurance training
+60,46.5,Muscle building,Advanced,At the gym,45,Strength training
+54,69.5,Flexibility,Beginner,At home,60,Mobility and flexibility
+19,59.8,Fat loss,Beginner,At the gym,60,Low-impact cardio
+28,103.4,Fat loss,Intermediate,At home,20,Low-impact cardio
+53,109.5,Muscle building,Advanced,At home,60,Strength training
+20,63.5,Endurance,Advanced,At the gym,45,Endurance training
+54,95.1,Endurance,Advanced,At the gym,20,Endurance training
+30,54.7,Muscle building,Advanced,At home,20,Strength training
+57,65.6,Endurance,Intermediate,At home,60,Endurance training
+30,55.4,Endurance,Beginner,At the gym,20,Endurance training
+36,66.3,General fitness,Advanced,At the gym,20,Balanced full-body
+46,95.6,General fitness,Intermediate,At home,30,Balanced full-body
+23,113.3,Fat loss,Beginner,At the gym,45,Low-impact cardio
+41,60.2,Muscle building,Beginner,At home,45,Strength training
+39,85.7,General fitness,Advanced,At the gym,45,Balanced full-body
+51,97.6,Fat loss,Beginner,At home,60,Low-impact cardio
+60,116.5,General fitness,Beginner,At the gym,60,Balanced full-body
+46,90.8,Fat loss,Advanced,At the gym,20,Low-impact cardio
+35,64.1,Endurance,Beginner,At the gym,20,Endurance training
+35,91.9,Fat loss,Beginner,At the gym,20,Low-impact cardio
+35,69.0,Fat loss,Advanced,At the gym,30,Low-impact cardio
+53,118.2,Endurance,Intermediate,At the gym,30,Endurance training
+31,75.0,Muscle building,Advanced,At the gym,60,Strength training
+25,96.4,Muscle building,Intermediate,At the gym,30,Strength training
+32,46.7,Muscle building,Beginner,At the gym,20,Strength training
+18,75.0,Muscle building,Beginner,At the gym,60,Strength training
+22,110.6,Endurance,Advanced,At the gym,30,Endurance training
+21,90.8,Endurance,Beginner,At the gym,60,Endurance training
+51,78.3,Muscle building,Intermediate,At home,60,Strength training
+49,115.2,Endurance,Intermediate,At the gym,60,Endurance training
+47,109.0,Endurance,Intermediate,At home,60,Endurance training
+37,69.2,General fitness,Advanced,At the gym,20,Balanced full-body
+48,85.8,General fitness,Intermediate,At home,45,Balanced full-body
+24,81.7,Flexibility,Intermediate,At the gym,30,Mobility and flexibility
+56,92.4,General fitness,Intermediate,At home,45,Balanced full-body
+39,70.1,Muscle building,Intermediate,At the gym,45,Strength training
+58,63.3,General fitness,Advanced,At the gym,45,Balanced full-body
+24,113.5,Flexibility,Beginner,At home,30,Mobility and flexibility
+39,114.3,Endurance,Beginner,At the gym,60,Endurance training
+47,108.2,Fat loss,Intermediate,At home,45,Low-impact cardio
+39,118.4,General fitness,Intermediate,At the gym,60,Balanced full-body
+37,100.9,Endurance,Beginner,At the gym,20,Endurance training
+25,102.4,Muscle building,Advanced,At home,60,Strength training
+34,102.2,Flexibility,Intermediate,At home,30,Mobility and flexibility
+28,81.0,Flexibility,Beginner,At home,30,Mobility and flexibility
+30,79.2,Flexibility,Advanced,At home,60,Mobility and flexibility
+47,63.0,Fat loss,Advanced,At home,30,Low-impact cardio
+45,93.4,General fitness,Intermediate,At the gym,30,Balanced full-body
+44,66.7,General fitness,Beginner,At the gym,60,Balanced full-body
+33,64.3,Endurance,Beginner,At home,60,Endurance training
+59,88.9,Flexibility,Intermediate,At home,30,Mobility and flexibility
+21,75.7,Muscle building,Beginner,At home,30,Strength training
+32,61.4,General fitness,Intermediate,At the gym,20,Balanced full-body
+23,106.2,Endurance,Beginner,At home,20,Endurance training
+32,109.5,Endurance,Beginner,At home,45,Endurance training
+59,57.6,Endurance,Intermediate,At home,30,Endurance training
+33,45.6,Muscle building,Advanced,At home,60,Strength training
+57,70.2,Flexibility,Advanced,At the gym,20,Mobility and flexibility
+39,104.8,Fat loss,Beginner,At home,45,Low-impact cardio
+48,107.9,General fitness,Beginner,At the gym,45,Balanced full-body
+37,55.4,Endurance,Intermediate,At the gym,45,Endurance training
+29,103.1,Fat loss,Intermediate,At the gym,20,Low-impact cardio
+50,53.7,General fitness,Advanced,At home,30,Balanced full-body
+59,74.3,General fitness,Advanced,At the gym,45,Balanced full-body
+29,119.9,Endurance,Intermediate,At home,30,Endurance training
+51,59.4,Fat loss,Beginner,At the gym,60,Low-impact cardio
+29,56.5,Muscle building,Beginner,At the gym,45,Strength training
+48,76.7,Muscle building,Beginner,At home,30,Strength training
+51,91.5,Endurance,Intermediate,At the gym,20,Endurance training
+37,115.0,Muscle building,Beginner,At the gym,20,Strength training
+49,118.6,General fitness,Beginner,At the gym,30,Balanced full-body
+29,50.2,Endurance,Advanced,At home,30,Endurance training
+21,55.3,Endurance,Advanced,At the gym,60,Endurance training
+22,104.3,Fat loss,Intermediate,At home,60,Low-impact cardio
+37,65.3,Flexibility,Advanced,At home,20,Mobility and flexibility
+56,111.4,Fat loss,Advanced,At the gym,45,Endurance training
+23,94.8,Fat loss,Advanced,At home,30,Low-impact cardio
+37,53.4,Fat loss,Advanced,At the gym,20,Low-impact cardio
+48,107.4,Muscle building,Beginner,At home,45,Strength training
+26,58.2,Flexibility,Advanced,At home,45,Mobility and flexibility
+49,76.8,Muscle building,Advanced,At home,20,Strength training
+31,86.4,Endurance,Advanced,At the gym,30,Endurance training
+52,82.6,General fitness,Intermediate,At the gym,45,Balanced full-body
+42,96.5,Fat loss,Advanced,At home,30,Low-impact cardio
+41,94.0,General fitness,Advanced,At the gym,30,Balanced full-body
+25,119.4,Fat loss,Advanced,At home,20,Low-impact cardio
+37,120.0,General fitness,Advanced,At the gym,20,Balanced full-body
+54,83.7,General fitness,Advanced,At home,60,Balanced full-body
+18,52.1,General fitness,Intermediate,At the gym,45,Balanced full-body
+50,99.6,Muscle building,Advanced,At home,20,Strength training
+39,118.2,Endurance,Intermediate,At home,30,Endurance training
+48,68.9,General fitness,Advanced,At the gym,20,Balanced full-body
+46,79.6,Muscle building,Advanced,At the gym,30,Strength training
+36,76.9,General fitness,Advanced,At home,20,Balanced full-body
+31,48.9,Fat loss,Intermediate,At the gym,45,Low-impact cardio
+44,95.4,Flexibility,Intermediate,At the gym,45,Mobility and flexibility
+24,71.5,Endurance,Beginner,At home,45,Endurance training
+43,104.1,Muscle building,Intermediate,At home,30,Strength training
+22,107.4,Endurance,Intermediate,At the gym,30,Endurance training
+45,106.6,Endurance,Intermediate,At the gym,20,Endurance training
+45,76.2,Endurance,Advanced,At the gym,20,Endurance training
+21,69.1,Fat loss,Advanced,At the gym,30,Low-impact cardio
+50,101.2,Flexibility,Beginner,At the gym,30,Mobility and flexibility
+35,105.1,Flexibility,Intermediate,At the gym,45,Mobility and flexibility
+51,81.8,Flexibility,Advanced,At the gym,20,Mobility and flexibility
+19,112.0,Flexibility,Advanced,At home,30,Mobility and flexibility
+25,55.8,Flexibility,Advanced,At the gym,60,Mobility and flexibility
+39,110.9,Endurance,Advanced,At the gym,60,Endurance training
+26,52.2,Fat loss,Advanced,At home,60,Endurance training
+32,56.5,General fitness,Advanced,At the gym,30,Balanced full-body
+46,85.0,Muscle building,Intermediate,At the gym,20,Strength training
+24,50.1,Muscle building,Beginner,At home,20,Strength training
+47,49.0,Flexibility,Intermediate,At home,20,Mobility and flexibility
+22,45.0,Flexibility,Advanced,At home,60,Mobility and flexibility
+25,77.7,General fitness,Beginner,At home,60,Balanced full-body
+43,103.1,Endurance,Advanced,At home,60,Endurance training
+52,47.6,Fat loss,Intermediate,At home,45,Low-impact cardio
+25,93.9,Muscle building,Advanced,At home,30,Strength training
+30,106.7,Flexibility,Beginner,At home,30,Mobility and flexibility
+57,57.6,General fitness,Advanced,At home,60,Balanced full-body
+60,56.0,General fitness,Intermediate,At the gym,60,Balanced full-body
+42,109.6,General fitness,Intermediate,At home,45,Balanced full-body
+37,106.7,Muscle building,Intermediate,At the gym,60,Strength training
+32,85.4,Flexibility,Intermediate,At home,30,Mobility and flexibility
+44,106.4,Endurance,Advanced,At the gym,30,Endurance training
+43,52.0,Endurance,Beginner,At the gym,60,Endurance training
+30,74.6,Muscle building,Advanced,At the gym,30,Strength training
+18,100.3,Endurance,Advanced,At home,60,Endurance training
+24,64.3,Flexibility,Beginner,At the gym,30,Mobility and flexibility
+59,101.4,Endurance,Beginner,At home,30,Endurance training
+35,82.8,General fitness,Intermediate,At home,20,Balanced full-body
+38,101.3,Muscle building,Advanced,At the gym,45,Strength training
+38,79.9,General fitness,Advanced,At home,30,Balanced full-body
+51,72.6,Muscle building,Advanced,At home,30,Strength training
+20,61.4,Endurance,Advanced,At the gym,45,Endurance training
+21,60.6,Fat loss,Intermediate,At home,20,Low-impact cardio
+29,101.4,Fat loss,Intermediate,At the gym,20,Low-impact cardio
+38,53.9,Endurance,Beginner,At home,60,Endurance training
+46,51.4,Muscle building,Intermediate,At home,45,Strength training
+39,58.2,General fitness,Beginner,At home,45,Balanced full-body
+36,58.2,General fitness,Beginner,At home,20,Balanced full-body
+58,106.7,General fitness,Advanced,At home,45,Balanced full-body
+24,74.9,Endurance,Advanced,At home,30,Endurance training
+42,119.3,Muscle building,Intermediate,At home,45,Strength training
+41,55.3,Endurance,Beginner,At home,20,Endurance training
+38,94.0,Muscle building,Beginner,At home,45,Strength training
+52,78.7,Muscle building,Beginner,At the gym,45,Strength training
+29,74.5,General fitness,Advanced,At the gym,30,Balanced full-body
+59,110.6,Flexibility,Beginner,At the gym,20,Mobility and flexibility
+32,118.2,Muscle building,Beginner,At the gym,60,Strength training
+41,110.5,General fitness,Advanced,At home,45,Balanced full-body
+40,59.4,Fat loss,Advanced,At home,45,Endurance training
+54,61.6,Fat loss,Advanced,At the gym,60,Endurance training
+36,94.2,Endurance,Beginner,At home,45,Endurance training
+30,66.7,Endurance,Intermediate,At the gym,20,Endurance training
+18,100.1,Muscle building,Beginner,At home,30,Strength training
+33,87.5,Endurance,Advanced,At home,60,Endurance training
+53,86.3,Muscle building,Beginner,At the gym,30,Strength training
+18,107.1,Muscle building,Advanced,At the gym,60,Strength training
+56,98.3,General fitness,Intermediate,At the gym,20,Balanced full-body
+41,47.0,Muscle building,Advanced,At home,30,Strength training
+24,48.7,Flexibility,Intermediate,At home,30,Mobility and flexibility
+30,90.1,General fitness,Beginner,At the gym,45,Balanced full-body
+41,81.5,Muscle building,Advanced,At home,20,Strength training
+31,64.5,General fitness,Intermediate,At the gym,20,Balanced full-body
+22,76.4,Endurance,Intermediate,At home,45,Endurance training
+46,101.8,Muscle building,Intermediate,At the gym,30,Strength training
+46,107.0,Flexibility,Intermediate,At the gym,60,Mobility and flexibility
+23,87.1,General fitness,Intermediate,At home,60,Balanced full-body
+30,73.9,Endurance,Beginner,At the gym,30,Endurance training
+28,65.3,Flexibility,Beginner,At home,45,Mobility and flexibility
+46,84.1,General fitness,Beginner,At home,30,Balanced full-body
+49,68.6,Fat loss,Beginner,At the gym,30,Low-impact cardio
+49,87.3,Endurance,Advanced,At the gym,45,Endurance training
+58,95.7,Fat loss,Beginner,At home,30,Low-impact cardio
+51,50.0,General fitness,Beginner,At home,20,Balanced full-body
+31,45.1,Flexibility,Beginner,At home,30,Mobility and flexibility
+22,60.9,General fitness,Advanced,At the gym,60,Balanced full-body
+44,112.1,Endurance,Intermediate,At the gym,30,Endurance training
+57,93.5,General fitness,Beginner,At the gym,30,Balanced full-body
+59,57.9,Muscle building,Intermediate,At home,45,Strength training
+27,111.8,Muscle building,Beginner,At home,20,Strength training
+28,80.2,General fitness,Beginner,At home,30,Balanced full-body
+19,80.7,Fat loss,Beginner,At home,20,Low-impact cardio
+24,115.2,General fitness,Advanced,At home,60,Balanced full-body
+41,49.5,General fitness,Beginner,At the gym,60,Balanced full-body
+41,61.1,Flexibility,Intermediate,At home,60,Mobility and flexibility
+33,88.9,Fat loss,Advanced,At home,20,Low-impact cardio
+31,59.7,Flexibility,Advanced,At the gym,45,Mobility and flexibility
+53,96.0,General fitness,Intermediate,At the gym,45,Balanced full-body
+37,61.1,Endurance,Beginner,At the gym,60,Endurance training
+52,52.4,General fitness,Intermediate,At home,20,Balanced full-body
+59,60.5,Muscle building,Beginner,At home,45,Strength training
+31,76.7,Flexibility,Intermediate,At the gym,20,Mobility and flexibility
+26,58.2,Muscle building,Beginner,At the gym,45,Strength training
+58,55.1,Fat loss,Intermediate,At home,60,Low-impact cardio
+45,109.5,Endurance,Intermediate,At the gym,20,Endurance training
+30,69.0,Endurance,Advanced,At home,20,Endurance training
+44,72.1,Flexibility,Intermediate,At home,60,Mobility and flexibility
+40,49.1,General fitness,Advanced,At home,20,Balanced full-body
+56,71.8,Fat loss,Intermediate,At the gym,45,Low-impact cardio
+29,64.9,Fat loss,Advanced,At home,45,Endurance training
+60,90.8,General fitness,Intermediate,At the gym,30,Balanced full-body
+58,60.4,Muscle building,Advanced,At home,60,Strength training
+25,111.6,Flexibility,Intermediate,At home,60,Mobility and flexibility
+25,114.7,Fat loss,Advanced,At the gym,30,Low-impact cardio
+40,52.5,Flexibility,Intermediate,At the gym,20,Mobility and flexibility
+19,53.1,Muscle building,Intermediate,At home,20,Strength training
+30,53.6,Fat loss,Intermediate,At home,20,Low-impact cardio
+36,91.5,Muscle building,Advanced,At home,60,Strength training
+59,54.1,Fat loss,Intermediate,At home,45,Low-impact cardio
+60,108.9,General fitness,Beginner,At home,45,Balanced full-body
+24,101.6,Muscle building,Advanced,At the gym,20,Strength training
+56,106.5,General fitness,Advanced,At home,60,Balanced full-body
+21,84.5,General fitness,Beginner,At the gym,45,Balanced full-body
+50,119.8,Fat loss,Advanced,At the gym,60,Endurance training
+54,48.3,Fat loss,Intermediate,At the gym,30,Low-impact cardio
+56,75.1,Fat loss,Beginner,At the gym,45,Low-impact cardio
+27,69.3,Fat loss,Intermediate,At the gym,45,Low-impact cardio
+56,116.1,Fat loss,Advanced,At home,30,Low-impact cardio
+22,88.3,Muscle building,Beginner,At home,45,Strength training
+40,105.5,General fitness,Advanced,At the gym,30,Balanced full-body
+38,57.8,Muscle building,Intermediate,At home,60,Strength training
+31,118.4,Muscle building,Beginner,At the gym,45,Strength training
+18,82.4,General fitness,Intermediate,At the gym,45,Balanced full-body
+51,82.0,General fitness,Intermediate,At the gym,45,Balanced full-body
+32,117.8,Muscle building,Advanced,At home,30,Strength training
+46,73.6,Muscle building,Advanced,At home,60,Strength training
+35,74.8,General fitness,Beginner,At home,20,Balanced full-body
+34,88.9,Fat loss,Advanced,At home,45,Endurance training
+56,54.6,General fitness,Intermediate,At home,20,Balanced full-body
+22,69.1,Flexibility,Beginner,At home,30,Mobility and flexibility
+49,59.5,Muscle building,Advanced,At home,45,Strength training
+50,52.7,Fat loss,Intermediate,At the gym,30,Low-impact cardio
+34,110.0,Endurance,Intermediate,At the gym,60,Endurance training
+29,89.2,Fat loss,Advanced,At the gym,45,Endurance training
+18,71.9,Fat loss,Beginner,At home,30,Low-impact cardio
+58,75.7,Fat loss,Beginner,At home,30,Low-impact cardio
+58,77.4,Flexibility,Advanced,At the gym,45,Mobility and flexibility
+28,92.5,Flexibility,Beginner,At home,60,Mobility and flexibility
+19,114.5,General fitness,Beginner,At home,30,Balanced full-body
+23,115.0,Endurance,Beginner,At the gym,45,Endurance training
+20,74.4,Endurance,Advanced,At the gym,45,Endurance training
+53,69.7,Endurance,Beginner,At the gym,20,Endurance training
+56,78.8,General fitness,Beginner,At home,60,Balanced full-body
+24,87.6,Flexibility,Intermediate,At home,45,Mobility and flexibility
+50,79.6,Endurance,Beginner,At home,20,Endurance training
+25,94.4,Fat loss,Intermediate,At the gym,45,Low-impact cardio
+33,86.6,Muscle building,Intermediate,At home,45,Strength training
+43,69.1,Flexibility,Intermediate,At home,60,Mobility and flexibility
+48,70.9,General fitness,Intermediate,At home,20,Balanced full-body
+55,73.4,Muscle building,Advanced,At home,30,Strength training
+19,52.1,Flexibility,Intermediate,At home,20,Mobility and flexibility
+26,57.5,Endurance,Intermediate,At the gym,45,Endurance training
+30,99.2,General fitness,Beginner,At the gym,45,Balanced full-body
+31,74.2,General fitness,Beginner,At the gym,30,Balanced full-body
+60,61.1,Fat loss,Beginner,At home,60,Low-impact cardio
+51,87.2,Muscle building,Beginner,At the gym,45,Strength training
+31,101.7,General fitness,Beginner,At the gym,30,Balanced full-body
+59,64.3,Flexibility,Beginner,At home,20,Mobility and flexibility
+39,107.0,Muscle building,Beginner,At the gym,30,Strength training
+39,114.6,Fat loss,Beginner,At home,60,Low-impact cardio
+36,89.8,General fitness,Intermediate,At the gym,30,Balanced full-body
+24,95.2,Flexibility,Beginner,At home,60,Mobility and flexibility
+58,48.9,General fitness,Beginner,At home,45,Balanced full-body
+18,115.9,Muscle building,Beginner,At home,45,Strength training
+25,74.4,Endurance,Beginner,At the gym,30,Endurance training
+27,114.3,Endurance,Beginner,At home,45,Endurance training
+30,88.4,Muscle building,Intermediate,At the gym,20,Strength training
+23,45.3,Flexibility,Intermediate,At home,20,Mobility and flexibility
+18,47.9,General fitness,Advanced,At the gym,30,Balanced full-body
+47,96.0,Fat loss,Intermediate,At home,45,Low-impact cardio
+59,87.2,General fitness,Intermediate,At home,45,Balanced full-body
+23,47.0,Flexibility,Advanced,At home,30,Mobility and flexibility
+30,100.8,Muscle building,Beginner,At home,30,Strength training
+39,108.9,General fitness,Advanced,At home,45,Balanced full-body
+57,82.2,Endurance,Advanced,At home,45,Endurance training
+47,79.9,Endurance,Intermediate,At the gym,20,Endurance training
+50,45.4,Flexibility,Advanced,At home,30,Mobility and flexibility
+42,104.0,Fat loss,Beginner,At home,45,Low-impact cardio
+35,69.8,General fitness,Advanced,At home,60,Balanced full-body
+26,110.9,General fitness,Intermediate,At the gym,30,Balanced full-body
+55,73.0,Fat loss,Beginner,At home,60,Low-impact cardio
+52,87.4,Endurance,Beginner,At the gym,45,Endurance training
+19,65.3,Fat loss,Advanced,At home,30,Low-impact cardio
+48,57.0,General fitness,Intermediate,At the gym,45,Balanced full-body
+21,103.1,Muscle building,Beginner,At home,60,Strength training
+49,82.2,Fat loss,Intermediate,At home,20,Low-impact cardio
+53,85.2,Flexibility,Advanced,At the gym,20,Mobility and flexibility
+23,117.4,Muscle building,Intermediate,At home,30,Strength training
+36,117.3,Muscle building,Beginner,At home,20,Strength training
+23,109.2,Flexibility,Beginner,At the gym,60,Mobility and flexibility
+42,59.1,Flexibility,Beginner,At home,60,Mobility and flexibility
+57,89.6,Fat loss,Advanced,At the gym,45,Endurance training
+21,110.9,Muscle building,Advanced,At home,60,Strength training
+35,73.1,Endurance,Advanced,At home,20,Endurance training
+59,52.6,Endurance,Intermediate,At home,45,Endurance training
+30,105.8,Flexibility,Advanced,At home,30,Mobility and flexibility
+23,81.1,General fitness,Intermediate,At home,30,Balanced full-body
+39,87.3,Fat loss,Intermediate,At the gym,30,Low-impact cardio
+39,118.7,Flexibility,Beginner,At the gym,45,Mobility and flexibility
+46,90.5,Fat loss,Intermediate,At home,45,Low-impact cardio
+31,76.9,Fat loss,Intermediate,At the gym,20,Low-impact cardio
+59,72.7,Endurance,Beginner,At the gym,45,Endurance training
+40,76.3,Endurance,Intermediate,At the gym,60,Endurance training
+30,53.9,Fat loss,Advanced,At home,20,Low-impact cardio
+59,104.6,Fat loss,Intermediate,At the gym,60,Low-impact cardio
+57,107.8,General fitness,Intermediate,At home,45,Balanced full-body
+39,66.3,Muscle building,Beginner,At the gym,30,Strength training
+19,67.8,Endurance,Beginner,At the gym,45,Endurance training
+43,110.6,General fitness,Beginner,At home,45,Balanced full-body
+41,46.8,General fitness,Beginner,At home,60,Balanced full-body
+24,84.0,General fitness,Advanced,At home,20,Balanced full-body
+45,79.8,Muscle building,Advanced,At the gym,20,Strength training
+54,96.8,Muscle building,Intermediate,At the gym,45,Strength training
+22,57.3,Endurance,Intermediate,At home,30,Endurance training
+49,95.1,General fitness,Intermediate,At home,20,Balanced full-body
+24,73.3,General fitness,Intermediate,At home,30,Balanced full-body
+50,91.4,General fitness,Intermediate,At home,45,Balanced full-body
+36,48.0,Muscle building,Intermediate,At the gym,20,Strength training
+18,79.6,Flexibility,Advanced,At home,60,Mobility and flexibility
+59,84.2,General fitness,Intermediate,At home,30,Balanced full-body
+25,61.1,Endurance,Intermediate,At the gym,20,Endurance training
+43,55.5,Flexibility,Intermediate,At home,20,Mobility and flexibility
+25,59.1,Flexibility,Beginner,At the gym,60,Mobility and flexibility
+58,70.8,Endurance,Beginner,At the gym,20,Endurance training
+49,52.3,Endurance,Beginner,At home,30,Endurance training
+52,116.0,General fitness,Intermediate,At the gym,45,Balanced full-body
+36,75.4,Endurance,Advanced,At the gym,45,Endurance training
+38,105.7,Muscle building,Advanced,At the gym,30,Strength training
+45,118.1,Endurance,Advanced,At home,20,Endurance training
+51,51.1,Fat loss,Beginner,At home,45,Low-impact cardio
+54,93.9,Flexibility,Advanced,At home,30,Mobility and flexibility
+18,110.4,Muscle building,Advanced,At home,20,Strength training
+46,92.6,Endurance,Intermediate,At home,20,Endurance training
+22,77.2,Fat loss,Beginner,At the gym,45,Low-impact cardio
+30,77.3,Fat loss,Intermediate,At the gym,20,Low-impact cardio
+53,47.7,Flexibility,Advanced,At home,30,Mobility and flexibility
+28,85.1,Flexibility,Advanced,At home,20,Mobility and flexibility
+52,119.5,Muscle building,Intermediate,At home,60,Strength training
+37,116.9,Fat loss,Intermediate,At home,45,Low-impact cardio
+28,48.0,Flexibility,Intermediate,At the gym,60,Mobility and flexibility
+32,97.9,Flexibility,Beginner,At home,20,Mobility and flexibility
+40,67.6,Fat loss,Intermediate,At home,30,Low-impact cardio
+50,112.7,Endurance,Beginner,At the gym,30,Endurance training
+44,48.4,Muscle building,Advanced,At home,45,Strength training
+58,115.2,Endurance,Advanced,At home,60,Endurance training
+55,107.8,General fitness,Intermediate,At home,20,Balanced full-body
+50,53.8,Fat loss,Intermediate,At the gym,60,Low-impact cardio
+43,49.5,Muscle building,Advanced,At home,45,Strength training
+30,107.6,General fitness,Intermediate,At the gym,60,Balanced full-body
+35,56.7,Endurance,Advanced,At the gym,20,Endurance training
+23,85.1,Fat loss,Intermediate,At home,60,Low-impact cardio
+34,113.7,Flexibility,Beginner,At the gym,30,Mobility and flexibility
+57,87.6,Endurance,Beginner,At the gym,30,Endurance training
+36,74.8,Flexibility,Beginner,At home,20,Mobility and flexibility
+22,78.4,Flexibility,Intermediate,At the gym,60,Mobility and flexibility
+46,49.7,Fat loss,Intermediate,At home,60,Low-impact cardio
+59,117.7,Fat loss,Intermediate,At home,20,Low-impact cardio
+55,68.3,Endurance,Beginner,At the gym,30,Endurance training
+29,59.2,Fat loss,Advanced,At home,45,Endurance training
+37,66.5,Fat loss,Intermediate,At home,45,Low-impact cardio
+40,117.3,General fitness,Advanced,At home,20,Balanced full-body
+28,52.1,Flexibility,Intermediate,At home,30,Mobility and flexibility
+29,110.0,Endurance,Intermediate,At the gym,30,Endurance training
+28,98.1,General fitness,Intermediate,At the gym,30,Balanced full-body
+60,107.3,Fat loss,Beginner,At home,60,Low-impact cardio
+50,118.2,Muscle building,Beginner,At the gym,20,Strength training
+54,108.2,Endurance,Intermediate,At home,45,Endurance training
+53,115.8,Fat loss,Advanced,At home,60,Endurance training
+59,54.5,General fitness,Beginner,At the gym,60,Balanced full-body
+22,104.7,Fat loss,Intermediate,At the gym,60,Low-impact cardio
+55,85.9,Muscle building,Advanced,At home,20,Strength training
+20,85.8,Muscle building,Advanced,At home,20,Strength training
+38,112.4,Endurance,Intermediate,At the gym,60,Endurance training
+43,117.9,Flexibility,Beginner,At the gym,45,Mobility and flexibility
+33,97.9,Fat loss,Beginner,At home,45,Low-impact cardio
+24,81.2,Endurance,Intermediate,At the gym,30,Endurance training
+26,79.2,Endurance,Advanced,At the gym,45,Endurance training
+53,74.0,Flexibility,Beginner,At the gym,20,Mobility and flexibility
+31,72.1,Flexibility,Advanced,At home,30,Mobility and flexibility
+31,74.4,Fat loss,Advanced,At the gym,45,Endurance training
+57,51.7,Endurance,Beginner,At the gym,20,Endurance training
+24,50.8,General fitness,Intermediate,At the gym,20,Balanced full-body
+57,103.5,Fat loss,Beginner,At home,20,Low-impact cardio
+57,78.5,Muscle building,Advanced,At home,20,Strength training
+43,114.8,Flexibility,Intermediate,At the gym,60,Mobility and flexibility
+25,90.9,General fitness,Beginner,At home,45,Balanced full-body
+24,47.6,Muscle building,Beginner,At the gym,60,Strength training
+30,56.8,Muscle building,Intermediate,At the gym,30,Strength training
+42,60.4,Flexibility,Beginner,At home,45,Mobility and flexibility
+24,118.2,Muscle building,Beginner,At the gym,60,Strength training
+37,61.4,Fat loss,Beginner,At the gym,30,Low-impact cardio
+22,83.7,General fitness,Intermediate,At home,45,Balanced full-body
+41,115.2,Flexibility,Advanced,At the gym,45,Mobility and flexibility
+18,118.3,Fat loss,Intermediate,At the gym,60,Low-impact cardio
+48,62.7,Muscle building,Beginner,At home,60,Strength training
+20,48.7,General fitness,Intermediate,At the gym,45,Balanced full-body
+26,56.5,Fat loss,Advanced,At home,45,Endurance training
+25,49.7,Endurance,Beginner,At home,60,Endurance training
+53,59.6,Muscle building,Beginner,At the gym,45,Strength training
+20,87.6,Fat loss,Beginner,At home,30,Low-impact cardio
+36,113.4,Muscle building,Advanced,At home,45,Strength training
+43,85.3,Flexibility,Beginner,At home,45,Mobility and flexibility
+40,91.9,Flexibility,Intermediate,At the gym,20,Mobility and flexibility
+47,60.1,General fitness,Advanced,At home,45,Balanced full-body
+52,105.0,General fitness,Intermediate,At the gym,45,Balanced full-body
+34,91.3,Flexibility,Intermediate,At home,60,Mobility and flexibility
+53,109.8,Fat loss,Beginner,At home,45,Low-impact cardio
+31,116.2,Endurance,Beginner,At home,20,Endurance training
+60,71.1,Endurance,Beginner,At home,60,Endurance training
+39,51.8,Endurance,Advanced,At home,45,Endurance training
+49,61.9,Muscle building,Beginner,At the gym,30,Strength training
+55,77.8,Endurance,Beginner,At home,60,Endurance training
+52,115.9,Endurance,Advanced,At the gym,30,Endurance training
+54,73.4,Flexibility,Intermediate,At the gym,30,Mobility and flexibility
+41,102.8,Fat loss,Intermediate,At the gym,60,Low-impact cardio
+19,85.5,Endurance,Advanced,At home,60,Endurance training
+39,58.7,Flexibility,Intermediate,At the gym,45,Mobility and flexibility
+25,69.1,Muscle building,Advanced,At the gym,30,Strength training
+56,94.0,Endurance,Intermediate,At the gym,60,Endurance training
+28,95.5,Fat loss,Advanced,At the gym,20,Low-impact cardio
+27,77.6,Endurance,Advanced,At home,45,Endurance training
+28,62.1,Endurance,Intermediate,At the gym,45,Endurance training
+45,99.1,Fat loss,Beginner,At home,60,Low-impact cardio
+42,57.7,Fat loss,Advanced,At the gym,30,Low-impact cardio
+58,115.3,Endurance,Beginner,At the gym,60,Endurance training
+35,59.1,Muscle building,Beginner,At the gym,20,Strength training
+30,53.0,General fitness,Intermediate,At home,60,Balanced full-body
+20,82.3,Fat loss,Advanced,At home,20,Low-impact cardio
+18,84.0,Flexibility,Beginner,At the gym,45,Mobility and flexibility
+34,83.1,General fitness,Advanced,At the gym,20,Balanced full-body
+57,77.8,Flexibility,Advanced,At home,60,Mobility and flexibility
+40,119.6,Fat loss,Advanced,At home,60,Endurance training
+56,81.5,Muscle building,Intermediate,At home,20,Strength training
+22,80.8,Endurance,Beginner,At the gym,60,Endurance training
+22,76.6,Endurance,Intermediate,At home,30,Endurance training
+53,50.0,Endurance,Beginner,At home,45,Endurance training
+22,89.5,Flexibility,Advanced,At the gym,20,Mobility and flexibility
+20,62.1,Flexibility,Intermediate,At home,20,Mobility and flexibility
+35,92.8,Fat loss,Intermediate,At the gym,20,Low-impact cardio
+57,48.8,Muscle building,Intermediate,At home,45,Strength training
+47,118.6,Flexibility,Advanced,At the gym,45,Mobility and flexibility
+22,80.2,General fitness,Intermediate,At the gym,60,Balanced full-body
+53,112.3,Flexibility,Advanced,At the gym,20,Mobility and flexibility
+54,80.7,General fitness,Advanced,At home,45,Balanced full-body
+52,49.5,Fat loss,Advanced,At home,20,Low-impact cardio
+56,106.7,General fitness,Intermediate,At home,30,Balanced full-body
+28,93.6,Flexibility,Advanced,At the gym,20,Mobility and flexibility
+60,103.6,Endurance,Beginner,At home,20,Endurance training
+31,77.1,Fat loss,Beginner,At home,45,Low-impact cardio
+52,92.8,Muscle building,Intermediate,At home,60,Strength training
+42,109.2,Flexibility,Advanced,At the gym,45,Mobility and flexibility
+51,92.3,Flexibility,Beginner,At the gym,60,Mobility and flexibility
+44,71.1,Endurance,Intermediate,At the gym,45,Endurance training
+45,94.7,Fat loss,Beginner,At the gym,20,Low-impact cardio
+44,95.4,Endurance,Intermediate,At the gym,30,Endurance training
+51,117.0,Flexibility,Beginner,At home,60,Mobility and flexibility
+49,72.8,Endurance,Advanced,At home,20,Endurance training
+23,76.9,General fitness,Advanced,At home,20,Balanced full-body
+53,105.9,General fitness,Advanced,At home,60,Balanced full-body
+41,82.9,Muscle building,Advanced,At home,20,Strength training
+31,100.2,Muscle building,Beginner,At home,60,Strength training
+40,79.5,Endurance,Intermediate,At home,60,Endurance training
+59,61.2,Fat loss,Beginner,At home,45,Low-impact cardio
+54,100.9,Fat loss,Intermediate,At the gym,45,Low-impact cardio
+53,54.8,Muscle building,Intermediate,At the gym,20,Strength training
+37,59.9,Endurance,Advanced,At the gym,30,Endurance training
+51,92.0,Endurance,Beginner,At home,60,Endurance training
+34,101.0,General fitness,Advanced,At home,60,Balanced full-body
+47,112.1,General fitness,Intermediate,At the gym,30,Balanced full-body
+45,65.4,Fat loss,Advanced,At the gym,60,Endurance training
+28,53.3,Muscle building,Intermediate,At home,60,Strength training
+29,116.7,Fat loss,Intermediate,At home,20,Low-impact cardio
+20,56.6,Endurance,Advanced,At home,45,Endurance training
+24,59.8,Endurance,Advanced,At the gym,45,Endurance training
+36,66.8,Muscle building,Beginner,At home,45,Strength training
+38,84.7,Muscle building,Intermediate,At the gym,60,Strength training
+25,111.2,Muscle building,Beginner,At home,60,Strength training
+35,102.0,Flexibility,Intermediate,At the gym,45,Mobility and flexibility
+43,98.1,General fitness,Advanced,At the gym,30,Balanced full-body
+28,58.1,Endurance,Advanced,At the gym,60,Endurance training
+32,71.8,General fitness,Beginner,At home,60,Balanced full-body
+33,80.9,Endurance,Intermediate,At the gym,45,Endurance training
+39,56.1,General fitness,Intermediate,At the gym,45,Balanced full-body
+33,65.5,Muscle building,Intermediate,At home,20,Strength training
+49,68.1,Flexibility,Beginner,At home,30,Mobility and flexibility
+32,54.5,Endurance,Beginner,At home,20,Endurance training
+36,86.3,Endurance,Intermediate,At home,45,Endurance training
+34,97.9,Flexibility,Intermediate,At home,60,Mobility and flexibility
+25,50.2,Muscle building,Advanced,At the gym,20,Strength training
+47,81.1,Fat loss,Intermediate,At the gym,60,Low-impact cardio
+28,103.7,General fitness,Intermediate,At the gym,20,Balanced full-body
+30,101.1,Muscle building,Intermediate,At the gym,20,Strength training
+52,106.1,General fitness,Advanced,At the gym,60,Balanced full-body
+58,78.6,Muscle building,Intermediate,At the gym,20,Strength training
+46,106.5,Muscle building,Intermediate,At home,45,Strength training
+57,63.1,Muscle building,Beginner,At the gym,60,Strength training
+54,72.1,Muscle building,Advanced,At home,30,Strength training
+38,58.2,Endurance,Advanced,At home,20,Endurance training
+51,80.1,General fitness,Beginner,At home,30,Balanced full-body
+32,74.4,General fitness,Intermediate,At the gym,20,Balanced full-body
+37,63.1,Fat loss,Beginner,At home,45,Low-impact cardio
+41,101.4,General fitness,Advanced,At the gym,60,Balanced full-body
+59,68.5,Fat loss,Beginner,At the gym,60,Low-impact cardio
+54,65.5,Muscle building,Beginner,At home,60,Strength training
+39,54.8,General fitness,Beginner,At home,60,Balanced full-body
+46,77.9,Fat loss,Intermediate,At home,60,Low-impact cardio
+26,67.7,Muscle building,Beginner,At the gym,60,Strength training
+52,72.7,Muscle building,Intermediate,At home,45,Strength training
+41,62.7,Flexibility,Advanced,At the gym,60,Mobility and flexibility
+40,102.2,Flexibility,Advanced,At home,30,Mobility and flexibility
+50,114.8,Fat loss,Beginner,At the gym,30,Low-impact cardio
+45,82.3,Endurance,Beginner,At the gym,60,Endurance training
+21,93.2,Endurance,Beginner,At the gym,30,Endurance training
+30,110.0,Muscle building,Advanced,At the gym,30,Strength training
+25,119.9,General fitness,Intermediate,At home,20,Balanced full-body
+49,91.0,Endurance,Intermediate,At the gym,30,Endurance training
+19,111.7,Muscle building,Advanced,At home,45,Strength training
+26,113.1,Fat loss,Intermediate,At home,60,Low-impact cardio
+43,104.4,Muscle building,Beginner,At home,20,Strength training
+47,79.6,Muscle building,Intermediate,At the gym,45,Strength training
+39,51.1,Muscle building,Advanced,At the gym,60,Strength training
+55,46.2,Muscle building,Beginner,At the gym,60,Strength training
+57,80.8,Fat loss,Intermediate,At home,60,Low-impact cardio
+23,82.1,Flexibility,Intermediate,At home,20,Mobility and flexibility
+58,75.6,Fat loss,Beginner,At the gym,30,Low-impact cardio
+44,87.6,Endurance,Beginner,At the gym,60,Endurance training
+45,86.4,Endurance,Intermediate,At the gym,60,Endurance training
+22,107.7,Endurance,Intermediate,At home,45,Endurance training
+44,53.1,Flexibility,Beginner,At home,60,Mobility and flexibility
+49,61.9,Fat loss,Intermediate,At home,45,Low-impact cardio
+42,104.5,Muscle building,Intermediate,At the gym,20,Strength training
+21,108.6,Fat loss,Intermediate,At home,60,Low-impact cardio
+40,119.6,General fitness,Advanced,At the gym,20,Balanced full-body
+58,110.5,Endurance,Beginner,At home,30,Endurance training
+49,111.7,Flexibility,Intermediate,At home,20,Mobility and flexibility
+23,68.6,Muscle building,Beginner,At the gym,45,Strength training
+59,75.1,Muscle building,Advanced,At home,20,Strength training
+59,65.1,Flexibility,Beginner,At home,45,Mobility and flexibility
+25,90.5,Endurance,Advanced,At the gym,60,Endurance training
+52,115.4,Endurance,Beginner,At home,60,Endurance training
+35,70.8,General fitness,Beginner,At the gym,30,Balanced full-body
+43,86.8,General fitness,Intermediate,At home,60,Balanced full-body
+37,67.2,Muscle building,Advanced,At home,30,Strength training
+51,57.7,Endurance,Beginner,At home,45,Endurance training
+60,59.6,Muscle building,Beginner,At home,45,Strength training
+52,49.3,Flexibility,Advanced,At home,20,Mobility and flexibility
+58,116.2,Fat loss,Beginner,At the gym,20,Low-impact cardio
+58,75.2,General fitness,Beginner,At home,20,Balanced full-body
+21,107.6,Muscle building,Advanced,At home,60,Strength training
+28,96.1,Endurance,Beginner,At the gym,60,Endurance training
+49,59.4,Endurance,Advanced,At home,30,Endurance training
+43,58.2,Flexibility,Advanced,At home,60,Mobility and flexibility
+20,105.9,Endurance,Advanced,At the gym,20,Endurance training
+22,64.9,Muscle building,Beginner,At the gym,60,Strength training
+40,113.5,Muscle building,Beginner,At home,20,Strength training
+44,55.5,Flexibility,Intermediate,At home,20,Mobility and flexibility
+25,95.8,General fitness,Intermediate,At home,60,Balanced full-body
+25,106.1,Fat loss,Advanced,At the gym,30,Low-impact cardio
+23,62.6,Flexibility,Intermediate,At home,30,Mobility and flexibility
+42,65.7,Endurance,Advanced,At the gym,60,Endurance training
+18,117.3,Fat loss,Advanced,At home,30,Low-impact cardio
+42,64.8,Endurance,Advanced,At home,60,Endurance training
+38,77.2,Endurance,Beginner,At the gym,20,Endurance training
+38,77.4,Endurance,Beginner,At home,20,Endurance training
+47,64.0,Flexibility,Beginner,At home,30,Mobility and flexibility
+40,103.2,General fitness,Intermediate,At the gym,45,Balanced full-body
+49,102.9,General fitness,Beginner,At the gym,20,Balanced full-body
+50,73.4,Endurance,Advanced,At home,20,Endurance training
+57,107.6,Fat loss,Beginner,At the gym,45,Low-impact cardio
+52,61.0,Fat loss,Advanced,At the gym,30,Low-impact cardio
+40,45.3,Flexibility,Advanced,At the gym,30,Mobility and flexibility
+39,87.8,Muscle building,Beginner,At home,20,Strength training
+28,119.6,General fitness,Beginner,At the gym,20,Balanced full-body
+43,47.9,Muscle building,Intermediate,At home,20,Strength training
+23,60.6,Muscle building,Intermediate,At the gym,45,Strength training
+58,83.9,General fitness,Beginner,At the gym,20,Balanced full-body
+54,105.7,Flexibility,Intermediate,At home,20,Mobility and flexibility
+23,51.7,General fitness,Beginner,At the gym,60,Balanced full-body
+51,74.6,Fat loss,Beginner,At home,30,Low-impact cardio
+23,101.0,Muscle building,Advanced,At home,45,Strength training
+49,72.9,Fat loss,Advanced,At the gym,30,Low-impact cardio
+21,59.2,Flexibility,Beginner,At the gym,60,Mobility and flexibility
+38,59.7,Muscle building,Advanced,At the gym,60,Strength training
+46,75.8,Muscle building,Intermediate,At the gym,30,Strength training
+49,81.0,Fat loss,Intermediate,At the gym,45,Low-impact cardio
+36,109.6,General fitness,Beginner,At home,30,Balanced full-body
+57,93.2,Flexibility,Intermediate,At the gym,60,Mobility and flexibility
+51,96.8,General fitness,Intermediate,At home,30,Balanced full-body
+26,118.7,Endurance,Intermediate,At home,60,Endurance training
+46,75.9,Fat loss,Beginner,At home,45,Low-impact cardio
+49,75.3,Fat loss,Beginner,At home,45,Low-impact cardio
+32,114.3,Endurance,Intermediate,At home,30,Endurance training
+49,63.4,Fat loss,Beginner,At the gym,60,Low-impact cardio
+56,99.7,General fitness,Beginner,At the gym,45,Balanced full-body
+53,101.6,Muscle building,Intermediate,At home,60,Strength training
+50,52.3,Fat loss,Advanced,At home,60,Endurance training
+45,80.1,General fitness,Intermediate,At the gym,20,Balanced full-body
+29,60.0,Flexibility,Beginner,At home,60,Mobility and flexibility
+52,58.9,Fat loss,Advanced,At the gym,60,Endurance training
+33,79.8,Flexibility,Intermediate,At the gym,20,Mobility and flexibility
+40,66.7,General fitness,Advanced,At home,60,Balanced full-body
+31,104.7,Endurance,Beginner,At the gym,45,Endurance training
+31,113.1,Fat loss,Intermediate,At the gym,30,Low-impact cardio
+24,105.2,Flexibility,Beginner,At the gym,20,Mobility and flexibility
+59,65.0,Fat loss,Intermediate,At home,30,Low-impact cardio
+24,65.6,Flexibility,Beginner,At the gym,20,Mobility and flexibility
+21,64.1,Endurance,Advanced,At the gym,45,Endurance training
+58,55.1,Muscle building,Beginner,At home,45,Strength training
+41,115.8,Fat loss,Intermediate,At the gym,45,Low-impact cardio
+36,75.2,Endurance,Beginner,At the gym,45,Endurance training
+49,61.9,Fat loss,Advanced,At home,30,Low-impact cardio
+34,108.5,Endurance,Intermediate,At home,45,Endurance training
+23,74.9,Endurance,Advanced,At the gym,60,Endurance training
+49,47.6,Muscle building,Intermediate,At home,20,Strength training
+25,57.1,Muscle building,Intermediate,At the gym,30,Strength training
+41,92.9,Muscle building,Beginner,At home,60,Strength training
+58,103.7,Muscle building,Intermediate,At the gym,60,Strength training
+58,60.8,Fat loss,Intermediate,At the gym,60,Low-impact cardio
+33,113.8,Muscle building,Beginner,At the gym,20,Strength training
+51,108.8,Endurance,Intermediate,At the gym,30,Endurance training
+44,108.6,Muscle building,Beginner,At home,20,Strength training
+38,62.1,Endurance,Beginner,At home,60,Endurance training
+24,48.8,Flexibility,Beginner,At the gym,45,Mobility and flexibility
+34,110.1,Endurance,Intermediate,At the gym,20,Endurance training
+46,67.9,General fitness,Beginner,At home,20,Balanced full-body
+60,91.4,Muscle building,Beginner,At the gym,45,Strength training
+18,102.0,Flexibility,Intermediate,At the gym,60,Mobility and flexibility
+48,54.6,Muscle building,Beginner,At home,60,Strength training
+54,103.6,General fitness,Beginner,At home,60,Balanced full-body
+58,115.4,General fitness,Intermediate,At the gym,60,Balanced full-body
+36,99.6,Endurance,Beginner,At the gym,60,Endurance training
+23,78.1,General fitness,Advanced,At home,60,Balanced full-body
+29,110.8,Endurance,Intermediate,At the gym,60,Endurance training
+54,84.6,Flexibility,Advanced,At the gym,30,Mobility and flexibility
+55,100.9,Muscle building,Advanced,At home,60,Strength training
+45,106.5,Flexibility,Advanced,At home,60,Mobility and flexibility
+23,101.2,Fat loss,Intermediate,At the gym,20,Low-impact cardio
+23,66.6,Flexibility,Intermediate,At home,45,Mobility and flexibility
+38,53.8,Fat loss,Advanced,At home,30,Low-impact cardio
+43,62.9,Flexibility,Beginner,At home,20,Mobility and flexibility
+19,82.7,Muscle building,Advanced,At the gym,20,Strength training
+47,82.9,Flexibility,Beginner,At home,20,Mobility and flexibility
+41,88.7,Fat loss,Beginner,At the gym,60,Low-impact cardio
+18,74.6,General fitness,Beginner,At the gym,60,Balanced full-body
+22,104.0,Flexibility,Beginner,At home,20,Mobility and flexibility
+37,113.5,Fat loss,Beginner,At home,45,Low-impact cardio
+49,63.5,Muscle building,Advanced,At home,45,Strength training
+53,100.2,Fat loss,Beginner,At home,45,Low-impact cardio
+36,95.8,Muscle building,Advanced,At the gym,45,Strength training
+30,84.2,Muscle building,Intermediate,At the gym,60,Strength training
+59,59.1,Endurance,Advanced,At the gym,45,Endurance training
+37,104.6,Muscle building,Intermediate,At the gym,45,Strength training
+31,117.0,Fat loss,Beginner,At the gym,45,Low-impact cardio
+37,99.1,Fat loss,Beginner,At the gym,30,Low-impact cardio
+18,113.8,Flexibility,Intermediate,At the gym,60,Mobility and flexibility
+30,118.8,Flexibility,Advanced,At home,30,Mobility and flexibility
+40,71.4,Muscle building,Beginner,At the gym,60,Strength training
+57,92.9,Fat loss,Intermediate,At home,45,Low-impact cardio
+49,80.5,Fat loss,Advanced,At the gym,45,Endurance training
+51,119.0,Flexibility,Advanced,At home,60,Mobility and flexibility
+41,52.0,Endurance,Intermediate,At the gym,45,Endurance training
+22,75.9,Endurance,Beginner,At the gym,45,Endurance training
+34,110.7,Muscle building,Beginner,At home,45,Strength training
+60,66.3,Endurance,Intermediate,At the gym,45,Endurance training
+19,104.1,Fat loss,Intermediate,At the gym,30,Low-impact cardio
+55,73.7,Endurance,Beginner,At the gym,45,Endurance training
+47,118.5,General fitness,Beginner,At home,60,Balanced full-body
+30,111.3,Muscle building,Intermediate,At the gym,45,Strength training
+51,67.6,Endurance,Advanced,At the gym,60,Endurance training
+53,102.8,Endurance,Beginner,At home,60,Endurance training
+19,70.3,General fitness,Intermediate,At home,30,Balanced full-body
+22,90.5,Fat loss,Beginner,At the gym,20,Low-impact cardio
+46,94.4,Fat loss,Beginner,At home,30,Low-impact cardio
+60,107.2,Flexibility,Intermediate,At home,60,Mobility and flexibility
+19,46.8,Muscle building,Beginner,At the gym,60,Strength training
+46,61.5,Muscle building,Beginner,At home,45,Strength training
+23,98.4,Endurance,Advanced,At home,60,Endurance training
+45,87.3,Muscle building,Beginner,At home,20,Strength training
+44,82.2,Muscle building,Beginner,At home,45,Strength training
+21,49.1,Endurance,Advanced,At home,45,Endurance training
+47,71.1,General fitness,Intermediate,At the gym,45,Balanced full-body
+56,109.9,Endurance,Beginner,At the gym,45,Endurance training
+55,47.3,Fat loss,Intermediate,At the gym,30,Low-impact cardio
+19,74.7,General fitness,Intermediate,At home,45,Balanced full-body
+28,115.9,General fitness,Beginner,At home,45,Balanced full-body
+28,48.8,Endurance,Intermediate,At the gym,60,Endurance training
+37,101.2,Fat loss,Intermediate,At home,20,Low-impact cardio
+24,64.3,Fat loss,Beginner,At the gym,30,Low-impact cardio
+54,110.0,Endurance,Advanced,At home,30,Endurance training
+51,101.0,Endurance,Intermediate,At the gym,20,Endurance training
+52,111.4,Flexibility,Advanced,At the gym,30,Mobility and flexibility
+26,61.2,Muscle building,Beginner,At the gym,30,Strength training
+18,84.8,Flexibility,Beginner,At home,30,Mobility and flexibility
+57,103.4,Muscle building,Advanced,At home,30,Strength training
+30,63.4,Endurance,Advanced,At the gym,45,Endurance training
+46,62.3,Fat loss,Beginner,At home,45,Low-impact cardio
+57,47.0,Flexibility,Advanced,At the gym,30,Mobility and flexibility
+19,116.9,Muscle building,Beginner,At home,60,Strength training
+18,98.3,Flexibility,Intermediate,At the gym,30,Mobility and flexibility
+18,92.7,Muscle building,Beginner,At home,45,Strength training
+24,100.8,Endurance,Intermediate,At the gym,20,Endurance training
+20,84.9,General fitness,Advanced,At the gym,20,Balanced full-body
+53,80.7,Fat loss,Advanced,At the gym,30,Low-impact cardio
+44,78.7,Fat loss,Advanced,At home,30,Low-impact cardio
+60,93.0,Endurance,Beginner,At home,30,Endurance training
+52,60.1,Fat loss,Advanced,At home,20,Low-impact cardio
+59,111.6,Muscle building,Intermediate,At the gym,30,Strength training
+28,105.9,General fitness,Intermediate,At home,45,Balanced full-body
+30,71.2,Muscle building,Advanced,At the gym,45,Strength training
+54,88.4,Fat loss,Intermediate,At home,20,Low-impact cardio
+28,55.6,Endurance,Intermediate,At home,30,Endurance training
+20,117.9,Endurance,Intermediate,At the gym,45,Endurance training
+46,112.7,Endurance,Intermediate,At home,45,Endurance training
+52,114.1,Flexibility,Advanced,At home,60,Mobility and flexibility
+59,69.9,Fat loss,Intermediate,At the gym,30,Low-impact cardio
+57,57.7,General fitness,Intermediate,At the gym,45,Balanced full-body
+23,60.9,Muscle building,Beginner,At the gym,60,Strength training
+51,51.8,Flexibility,Intermediate,At the gym,30,Mobility and flexibility
+54,54.0,General fitness,Advanced,At the gym,60,Balanced full-body
+48,50.3,Fat loss,Intermediate,At the gym,30,Low-impact cardio
+53,119.2,Endurance,Beginner,At home,30,Endurance training
+54,50.6,Fat loss,Intermediate,At home,45,Low-impact cardio
+37,54.9,Muscle building,Advanced,At home,45,Strength training
+19,107.0,Endurance,Beginner,At the gym,45,Endurance training
+37,88.5,General fitness,Beginner,At the gym,20,Balanced full-body
+26,103.1,Endurance,Intermediate,At home,20,Endurance training
+22,92.3,General fitness,Intermediate,At the gym,60,Balanced full-body
+23,111.2,Flexibility,Beginner,At home,60,Mobility and flexibility
+47,92.9,General fitness,Advanced,At the gym,60,Balanced full-body
+39,84.2,Fat loss,Advanced,At the gym,45,Endurance training
+41,98.5,Fat loss,Intermediate,At the gym,60,Low-impact cardio
+50,78.6,Endurance,Intermediate,At the gym,30,Endurance training
+41,71.0,Fat loss,Beginner,At the gym,20,Low-impact cardio
+45,80.1,Muscle building,Advanced,At home,20,Strength training
+21,57.7,Fat loss,Advanced,At home,30,Low-impact cardio
+54,104.7,Muscle building,Intermediate,At the gym,30,Strength training
+37,64.6,General fitness,Intermediate,At home,60,Balanced full-body
+24,56.5,Fat loss,Advanced,At home,30,Low-impact cardio
+52,63.5,General fitness,Advanced,At home,45,Balanced full-body
+49,108.2,Flexibility,Beginner,At the gym,30,Mobility and flexibility
+20,69.8,Fat loss,Advanced,At the gym,45,Endurance training
+26,96.5,Fat loss,Advanced,At the gym,45,Endurance training
+18,109.2,Muscle building,Advanced,At the gym,20,Strength training
+29,50.8,Flexibility,Intermediate,At the gym,30,Mobility and flexibility
+22,102.4,General fitness,Intermediate,At the gym,20,Balanced full-body
+48,68.1,Endurance,Beginner,At the gym,60,Endurance training
+40,61.2,Fat loss,Intermediate,At home,45,Low-impact cardio
+60,96.7,Endurance,Beginner,At the gym,60,Endurance training
+50,113.2,Fat loss,Intermediate,At home,60,Low-impact cardio
+44,67.1,Endurance,Beginner,At the gym,20,Endurance training
+39,87.7,Fat loss,Intermediate,At the gym,45,Low-impact cardio
+20,66.7,Flexibility,Intermediate,At the gym,20,Mobility and flexibility
+21,86.6,Muscle building,Beginner,At the gym,60,Strength training
+44,91.6,Fat loss,Advanced,At the gym,60,Endurance training
+18,90.8,Muscle building,Intermediate,At the gym,45,Strength training
+19,91.8,Fat loss,Advanced,At home,60,Endurance training
+27,55.1,Fat loss,Beginner,At home,60,Low-impact cardio
+56,97.0,General fitness,Advanced,At the gym,60,Balanced full-body
+37,95.6,Muscle building,Beginner,At the gym,20,Strength training
+48,96.2,Muscle building,Intermediate,At home,20,Strength training
+35,50.6,Flexibility,Intermediate,At the gym,60,Mobility and flexibility
+25,78.5,Fat loss,Intermediate,At the gym,30,Low-impact cardio
+33,75.7,Muscle building,Intermediate,At the gym,30,Strength training
+21,51.5,Fat loss,Advanced,At home,20,Low-impact cardio
+51,61.7,General fitness,Beginner,At the gym,45,Balanced full-body
+25,78.1,Muscle building,Advanced,At home,60,Strength training
+34,100.7,Fat loss,Beginner,At home,60,Low-impact cardio
+60,62.8,Fat loss,Beginner,At the gym,45,Low-impact cardio
+43,107.2,Flexibility,Beginner,At the gym,45,Mobility and flexibility
+37,85.9,Fat loss,Advanced,At home,45,Endurance training
+41,102.0,Endurance,Beginner,At home,30,Endurance training
+51,80.4,Flexibility,Intermediate,At home,45,Mobility and flexibility
+28,82.4,General fitness,Intermediate,At the gym,60,Balanced full-body
+45,91.5,Muscle building,Advanced,At the gym,30,Strength training
+55,114.6,Endurance,Intermediate,At home,30,Endurance training
+42,81.9,Flexibility,Advanced,At home,45,Mobility and flexibility
+37,84.6,Fat loss,Advanced,At the gym,45,Endurance training
+24,90.1,Flexibility,Advanced,At home,20,Mobility and flexibility
+28,100.3,Flexibility,Advanced,At home,30,Mobility and flexibility
+58,50.4,Fat loss,Beginner,At home,45,Low-impact cardio
+41,83.7,Fat loss,Intermediate,At the gym,45,Low-impact cardio
+30,81.1,Endurance,Intermediate,At home,45,Endurance training
+35,114.1,Fat loss,Beginner,At home,60,Low-impact cardio
+42,82.0,Endurance,Beginner,At home,45,Endurance training
+41,80.1,Fat loss,Beginner,At home,45,Low-impact cardio
+48,117.2,Endurance,Advanced,At home,30,Endurance training
+29,78.8,Muscle building,Intermediate,At home,30,Strength training
+45,58.6,Fat loss,Beginner,At home,60,Low-impact cardio
+37,61.3,Fat loss,Advanced,At home,30,Low-impact cardio
+58,52.1,Fat loss,Advanced,At home,45,Endurance training
+24,45.0,General fitness,Advanced,At the gym,20,Balanced full-body
+24,77.4,Fat loss,Advanced,At home,20,Low-impact cardio
+37,102.7,Flexibility,Advanced,At the gym,20,Mobility and flexibility
+39,100.0,Endurance,Beginner,At the gym,20,Endurance training
+47,47.4,Muscle building,Advanced,At the gym,45,Strength training
+35,87.7,Flexibility,Intermediate,At the gym,45,Mobility and flexibility
+57,56.6,Endurance,Intermediate,At the gym,45,Endurance training
+38,115.6,Endurance,Intermediate,At home,30,Endurance training
+23,57.6,Fat loss,Intermediate,At home,45,Low-impact cardio
+23,92.0,Endurance,Intermediate,At home,20,Endurance training
+59,69.5,General fitness,Advanced,At the gym,30,Balanced full-body
+23,93.1,Flexibility,Beginner,At the gym,20,Mobility and flexibility
+58,75.9,General fitness,Beginner,At the gym,20,Balanced full-body
+29,102.0,Endurance,Beginner,At the gym,20,Endurance training
+22,62.3,Muscle building,Advanced,At home,20,Strength training
+31,112.9,Fat loss,Intermediate,At home,30,Low-impact cardio
+44,82.5,Fat loss,Intermediate,At home,45,Low-impact cardio
+36,101.7,Flexibility,Intermediate,At home,45,Mobility and flexibility
+51,108.7,Endurance,Intermediate,At the gym,30,Endurance training
+44,119.9,Muscle building,Intermediate,At home,20,Strength training
+35,61.8,Endurance,Beginner,At the gym,20,Endurance training
+45,66.5,Fat loss,Beginner,At the gym,45,Low-impact cardio
+59,63.8,Fat loss,Advanced,At home,60,Endurance training
+35,64.7,General fitness,Intermediate,At the gym,30,Balanced full-body
+24,88.7,Endurance,Beginner,At home,20,Endurance training
+35,119.5,Flexibility,Intermediate,At the gym,30,Mobility and flexibility
+54,119.3,Endurance,Intermediate,At the gym,20,Endurance training
+27,84.5,Muscle building,Beginner,At home,20,Strength training
+58,92.9,Flexibility,Beginner,At the gym,30,Mobility and flexibility
+43,109.5,General fitness,Advanced,At home,60,Balanced full-body
+43,115.0,Flexibility,Beginner,At the gym,45,Mobility and flexibility
+31,60.3,Fat loss,Beginner,At home,60,Low-impact cardio
+57,84.6,Fat loss,Intermediate,At home,30,Low-impact cardio
+19,107.5,Fat loss,Intermediate,At home,30,Low-impact cardio
+30,67.7,Flexibility,Advanced,At home,30,Mobility and flexibility
+35,78.0,Fat loss,Advanced,At home,20,Low-impact cardio
+38,118.9,Flexibility,Beginner,At the gym,30,Mobility and flexibility
+38,118.9,Endurance,Intermediate,At the gym,30,Endurance training
+24,113.0,Fat loss,Beginner,At the gym,30,Low-impact cardio
+27,104.9,Flexibility,Intermediate,At home,20,Mobility and flexibility
+22,65.2,Fat loss,Beginner,At home,45,Low-impact cardio
+42,69.1,Fat loss,Beginner,At the gym,60,Low-impact cardio
+33,86.0,General fitness,Advanced,At home,60,Balanced full-body
+42,87.1,Muscle building,Beginner,At home,20,Strength training
+43,82.9,Muscle building,Intermediate,At home,20,Strength training
+48,92.8,Fat loss,Beginner,At home,60,Low-impact cardio
+41,75.6,Endurance,Advanced,At home,60,Endurance training
+45,101.2,Fat loss,Advanced,At the gym,45,Endurance training
+43,70.0,Muscle building,Intermediate,At home,30,Strength training
+46,69.8,General fitness,Advanced,At the gym,45,Balanced full-body
+44,54.5,General fitness,Intermediate,At home,45,Balanced full-body
+31,59.2,Endurance,Beginner,At home,60,Endurance training
+28,108.8,Muscle building,Beginner,At the gym,45,Strength training
+51,78.5,Endurance,Beginner,At the gym,20,Endurance training
+32,62.1,Endurance,Beginner,At home,45,Endurance training
+41,102.0,Muscle building,Beginner,At home,60,Strength training
+26,86.5,Muscle building,Beginner,At the gym,30,Strength training
+36,46.6,General fitness,Intermediate,At home,20,Balanced full-body
+40,68.7,General fitness,Beginner,At the gym,20,Balanced full-body
+44,58.3,Fat loss,Intermediate,At home,60,Low-impact cardio
+40,94.2,General fitness,Intermediate,At the gym,30,Balanced full-body
+33,65.6,Fat loss,Advanced,At home,45,Endurance training
+59,49.9,General fitness,Intermediate,At the gym,60,Balanced full-body
+40,49.1,Flexibility,Advanced,At the gym,20,Mobility and flexibility
+52,88.6,General fitness,Intermediate,At home,20,Balanced full-body
+49,46.6,Endurance,Beginner,At home,60,Endurance training
+42,108.7,Muscle building,Intermediate,At the gym,45,Strength training
+56,56.7,Flexibility,Intermediate,At the gym,20,Mobility and flexibility
+23,90.5,Flexibility,Intermediate,At home,45,Mobility and flexibility
+57,78.4,Flexibility,Intermediate,At the gym,20,Mobility and flexibility
+54,78.2,Endurance,Intermediate,At the gym,60,Endurance training
+39,50.4,Endurance,Beginner,At home,60,Endurance training
+49,105.2,General fitness,Beginner,At the gym,60,Balanced full-body
+40,112.0,Flexibility,Advanced,At home,30,Mobility and flexibility
+29,45.8,Flexibility,Advanced,At the gym,30,Mobility and flexibility
+52,58.4,General fitness,Beginner,At home,60,Balanced full-body
+28,112.8,Fat loss,Advanced,At the gym,45,Endurance training
+31,86.2,Fat loss,Advanced,At the gym,45,Endurance training
+40,56.3,Muscle building,Beginner,At the gym,20,Strength training
+54,60.2,Fat loss,Advanced,At the gym,45,Endurance training
+34,94.5,Muscle building,Intermediate,At the gym,45,Strength training
+39,99.4,Fat loss,Advanced,At the gym,30,Low-impact cardio
+19,90.0,Flexibility,Intermediate,At the gym,60,Mobility and flexibility
+22,116.5,Fat loss,Intermediate,At home,20,Low-impact cardio
+20,82.1,Endurance,Beginner,At home,45,Endurance training
+21,67.5,Muscle building,Beginner,At home,60,Strength training
+55,80.8,Fat loss,Intermediate,At the gym,45,Low-impact cardio
+54,72.0,Endurance,Advanced,At the gym,20,Endurance training
+53,61.8,Flexibility,Advanced,At home,45,Mobility and flexibility
+20,48.4,Endurance,Advanced,At home,45,Endurance training
+21,71.4,Flexibility,Intermediate,At the gym,45,Mobility and flexibility
+30,98.4,General fitness,Intermediate,At the gym,30,Balanced full-body
+42,46.4,Endurance,Intermediate,At the gym,45,Endurance training
+32,77.9,Fat loss,Advanced,At home,30,Low-impact cardio
+38,93.3,Flexibility,Beginner,At home,45,Mobility and flexibility
+25,90.8,Endurance,Beginner,At home,45,Endurance training
+49,103.2,Muscle building,Advanced,At the gym,45,Strength training
+31,105.8,Muscle building,Intermediate,At the gym,60,Strength training
+20,98.4,Endurance,Intermediate,At the gym,60,Endurance training
+49,52.7,Fat loss,Advanced,At home,60,Endurance training
+56,80.6,Flexibility,Advanced,At home,60,Mobility and flexibility
+18,90.3,Muscle building,Beginner,At the gym,60,Strength training
+36,63.4,Fat loss,Intermediate,At the gym,20,Low-impact cardio
+53,48.2,Muscle building,Intermediate,At home,30,Strength training
+48,61.8,Flexibility,Advanced,At the gym,45,Mobility and flexibility
+54,79.1,Muscle building,Advanced,At the gym,30,Strength training
+35,76.0,General fitness,Intermediate,At home,45,Balanced full-body
+34,58.3,Flexibility,Advanced,At the gym,20,Mobility and flexibility
+48,106.8,Fat loss,Intermediate,At the gym,20,Low-impact cardio
+24,114.4,Endurance,Advanced,At the gym,45,Endurance training
+28,60.1,Muscle building,Intermediate,At home,60,Strength training
+43,114.7,Endurance,Intermediate,At the gym,30,Endurance training
+46,46.3,Fat loss,Intermediate,At home,30,Low-impact cardio
+23,114.4,Fat loss,Advanced,At the gym,45,Endurance training
+39,116.4,Endurance,Intermediate,At home,30,Endurance training
+33,45.9,Flexibility,Beginner,At the gym,20,Mobility and flexibility
+39,102.2,Flexibility,Beginner,At the gym,45,Mobility and flexibility
+59,117.8,Endurance,Intermediate,At home,60,Endurance training
+21,112.9,General fitness,Advanced,At home,45,Balanced full-body
+60,117.8,Fat loss,Intermediate,At home,60,Low-impact cardio
+37,86.3,Muscle building,Intermediate,At the gym,45,Strength training
+51,50.9,Endurance,Advanced,At the gym,60,Endurance training
+36,108.7,Muscle building,Intermediate,At the gym,20,Strength training
+31,91.0,General fitness,Advanced,At home,20,Balanced full-body
+51,91.1,Fat loss,Intermediate,At home,20,Low-impact cardio
+47,76.3,General fitness,Advanced,At home,60,Balanced full-body
+24,87.9,Muscle building,Advanced,At the gym,45,Strength training
+48,56.5,Fat loss,Intermediate,At the gym,20,Low-impact cardio
+50,100.5,Fat loss,Beginner,At home,60,Low-impact cardio
+34,50.6,General fitness,Intermediate,At home,30,Balanced full-body
+57,99.7,Muscle building,Beginner,At the gym,45,Strength training
+45,108.7,Fat loss,Intermediate,At the gym,20,Low-impact cardio
+32,80.4,General fitness,Beginner,At home,20,Balanced full-body
+18,83.2,Fat loss,Intermediate,At the gym,30,Low-impact cardio
+47,68.4,Fat loss,Intermediate,At home,20,Low-impact cardio
+26,117.7,Fat loss,Beginner,At home,45,Low-impact cardio
+50,100.0,General fitness,Beginner,At home,20,Balanced full-body
+40,72.7,Flexibility,Intermediate,At the gym,20,Mobility and flexibility
+38,58.1,Muscle building,Beginner,At the gym,45,Strength training
+25,61.5,Muscle building,Advanced,At home,30,Strength training
+48,79.8,Muscle building,Advanced,At the gym,45,Strength training
+25,115.7,Muscle building,Advanced,At the gym,45,Strength training
+35,100.1,Endurance,Beginner,At the gym,60,Endurance training
+53,61.1,Muscle building,Advanced,At the gym,60,Strength training
+57,109.5,Endurance,Intermediate,At home,20,Endurance training
+60,73.4,Flexibility,Intermediate,At home,45,Mobility and flexibility
+59,108.9,Flexibility,Beginner,At home,45,Mobility and flexibility
+41,63.1,General fitness,Intermediate,At home,45,Balanced full-body
+26,91.4,Endurance,Advanced,At home,60,Endurance training
+54,114.5,Flexibility,Beginner,At home,20,Mobility and flexibility
+52,64.3,Endurance,Beginner,At the gym,30,Endurance training
+60,97.0,Muscle building,Intermediate,At home,60,Strength training
+45,119.0,Fat loss,Intermediate,At home,60,Low-impact cardio
+24,56.3,Fat loss,Intermediate,At home,20,Low-impact cardio
+39,51.6,Flexibility,Intermediate,At home,30,Mobility and flexibility
+37,95.6,General fitness,Beginner,At the gym,30,Balanced full-body
+54,70.5,Muscle building,Beginner,At the gym,20,Strength training
+34,50.3,Muscle building,Beginner,At home,20,Strength training
+32,80.6,Muscle building,Beginner,At the gym,45,Strength training
+21,101.5,Flexibility,Advanced,At the gym,45,Mobility and flexibility
+53,66.4,Endurance,Advanced,At the gym,45,Endurance training
+50,70.1,Flexibility,Intermediate,At home,30,Mobility and flexibility
+19,108.4,Muscle building,Beginner,At the gym,60,Strength training
+36,84.0,General fitness,Intermediate,At the gym,45,Balanced full-body
+38,108.2,Fat loss,Advanced,At the gym,60,Endurance training
+38,78.5,Flexibility,Beginner,At home,30,Mobility and flexibility
+57,116.5,General fitness,Intermediate,At the gym,20,Balanced full-body
+24,93.8,General fitness,Intermediate,At home,30,Balanced full-body
+31,53.7,General fitness,Beginner,At home,45,Balanced full-body
+25,111.4,Muscle building,Intermediate,At the gym,30,Strength training
+28,81.7,Flexibility,Intermediate,At the gym,60,Mobility and flexibility
+57,55.6,General fitness,Intermediate,At home,20,Balanced full-body
+58,56.5,Endurance,Advanced,At the gym,45,Endurance training
+19,96.6,Fat loss,Intermediate,At the gym,30,Low-impact cardio
+45,48.6,Muscle building,Beginner,At the gym,20,Strength training
+28,66.5,Flexibility,Beginner,At home,45,Mobility and flexibility
+26,55.5,Fat loss,Intermediate,At home,60,Low-impact cardio
+30,78.1,Fat loss,Advanced,At the gym,45,Endurance training
+26,76.1,Flexibility,Beginner,At the gym,20,Mobility and flexibility
+39,84.1,Muscle building,Beginner,At the gym,20,Strength training
+60,66.0,Muscle building,Advanced,At the gym,30,Strength training
+43,47.4,General fitness,Intermediate,At the gym,45,Balanced full-body
+49,91.1,Fat loss,Beginner,At the gym,30,Low-impact cardio
+39,73.0,Fat loss,Beginner,At home,30,Low-impact cardio
+18,93.9,Fat loss,Intermediate,At the gym,60,Low-impact cardio
+21,53.2,Fat loss,Intermediate,At home,20,Low-impact cardio
+29,46.0,Fat loss,Intermediate,At the gym,20,Low-impact cardio
+28,63.6,Endurance,Beginner,At home,20,Endurance training
+54,79.2,Muscle building,Intermediate,At the gym,60,Strength training
+54,74.6,Fat loss,Advanced,At home,30,Low-impact cardio
+54,105.8,Fat loss,Beginner,At home,20,Low-impact cardio
+45,73.3,General fitness,Intermediate,At home,30,Balanced full-body
+41,84.8,Flexibility,Beginner,At home,60,Mobility and flexibility
+45,89.5,Muscle building,Intermediate,At the gym,45,Strength training
+35,46.6,Fat loss,Beginner,At home,20,Low-impact cardio
+46,83.6,Muscle building,Beginner,At the gym,20,Strength training
+52,70.9,General fitness,Advanced,At the gym,20,Balanced full-body
+50,76.6,Fat loss,Beginner,At the gym,60,Low-impact cardio
+44,52.5,Flexibility,Advanced,At home,20,Mobility and flexibility
+20,103.7,Endurance,Intermediate,At home,30,Endurance training
+49,115.7,Muscle building,Intermediate,At home,30,Strength training
+33,46.7,Flexibility,Intermediate,At home,45,Mobility and flexibility
+49,90.1,Muscle building,Intermediate,At home,45,Strength training
+41,102.3,Fat loss,Intermediate,At the gym,60,Low-impact cardio
+55,66.4,Flexibility,Advanced,At home,30,Mobility and flexibility
+32,104.1,Flexibility,Advanced,At home,30,Mobility and flexibility
+58,92.4,Muscle building,Beginner,At home,30,Strength training
+54,114.7,General fitness,Advanced,At home,20,Balanced full-body
+32,118.6,Fat loss,Beginner,At home,45,Low-impact cardio
+38,48.2,Endurance,Advanced,At home,45,Endurance training
+40,78.4,Endurance,Beginner,At the gym,30,Endurance training
+51,86.0,Endurance,Beginner,At the gym,60,Endurance training
+47,56.0,General fitness,Advanced,At the gym,20,Balanced full-body
+54,70.2,Endurance,Advanced,At the gym,60,Endurance training
+33,119.1,General fitness,Beginner,At the gym,45,Balanced full-body
+39,46.2,Flexibility,Intermediate,At home,20,Mobility and flexibility
+36,78.9,Fat loss,Intermediate,At home,45,Low-impact cardio
+57,108.2,General fitness,Intermediate,At home,60,Balanced full-body
+31,69.3,General fitness,Intermediate,At home,30,Balanced full-body
+43,81.0,General fitness,Advanced,At home,30,Balanced full-body
+23,118.4,Fat loss,Advanced,At home,60,Endurance training
+54,80.6,Muscle building,Intermediate,At home,20,Strength training
+34,54.8,Flexibility,Advanced,At the gym,20,Mobility and flexibility
+32,48.9,Fat loss,Advanced,At the gym,45,Endurance training
+43,115.9,Endurance,Beginner,At the gym,60,Endurance training
+39,64.9,Endurance,Advanced,At home,45,Endurance training
+54,82.8,General fitness,Advanced,At home,20,Balanced full-body
+40,51.8,Fat loss,Beginner,At the gym,45,Low-impact cardio
+40,76.8,Fat loss,Advanced,At home,30,Low-impact cardio
+22,114.8,Muscle building,Advanced,At home,60,Strength training
+18,82.7,Fat loss,Intermediate,At home,45,Low-impact cardio
+35,117.8,Fat loss,Intermediate,At home,30,Low-impact cardio
+60,64.4,Fat loss,Intermediate,At the gym,45,Low-impact cardio
+57,82.8,Fat loss,Advanced,At the gym,45,Endurance training
+45,109.5,Flexibility,Advanced,At home,45,Mobility and flexibility
+45,78.6,Endurance,Advanced,At home,30,Endurance training
+34,66.0,Fat loss,Intermediate,At the gym,45,Low-impact cardio
+25,109.2,Endurance,Beginner,At the gym,20,Endurance training
+18,74.2,Fat loss,Advanced,At the gym,30,Low-impact cardio
+32,84.8,General fitness,Beginner,At home,30,Balanced full-body
+31,118.2,Fat loss,Beginner,At the gym,45,Low-impact cardio
+26,59.0,Fat loss,Beginner,At the gym,60,Low-impact cardio
+29,67.6,Fat loss,Advanced,At the gym,60,Endurance training
+19,47.3,General fitness,Intermediate,At home,30,Balanced full-body
+44,74.4,General fitness,Beginner,At the gym,45,Balanced full-body
+57,60.0,Muscle building,Beginner,At home,20,Strength training
+47,96.0,Endurance,Intermediate,At home,30,Endurance training
+37,58.6,Endurance,Advanced,At the gym,45,Endurance training
+36,95.6,Endurance,Advanced,At the gym,45,Endurance training
+31,64.8,General fitness,Intermediate,At home,60,Balanced full-body
+24,71.6,General fitness,Intermediate,At home,30,Balanced full-body
+43,71.2,General fitness,Advanced,At home,60,Balanced full-body
+42,98.8,Muscle building,Advanced,At home,60,Strength training
+18,80.0,General fitness,Beginner,At the gym,45,Balanced full-body
+35,72.1,Fat loss,Advanced,At home,20,Low-impact cardio
+29,108.9,Flexibility,Intermediate,At the gym,30,Mobility and flexibility
+25,87.9,Muscle building,Advanced,At home,60,Strength training
+48,61.0,Endurance,Beginner,At the gym,45,Endurance training
+40,112.5,Flexibility,Beginner,At the gym,60,Mobility and flexibility
+45,70.7,General fitness,Advanced,At the gym,60,Balanced full-body
+48,47.9,Flexibility,Advanced,At the gym,20,Mobility and flexibility
+60,82.1,General fitness,Beginner,At the gym,60,Balanced full-body
+52,54.3,Fat loss,Advanced,At the gym,30,Low-impact cardio
+44,62.9,Fat loss,Beginner,At the gym,60,Low-impact cardio
+55,101.0,Fat loss,Advanced,At home,45,Endurance training
+38,54.8,Flexibility,Beginner,At the gym,30,Mobility and flexibility
+60,105.5,General fitness,Beginner,At the gym,20,Balanced full-body
+50,115.3,Muscle building,Advanced,At home,20,Strength training
+45,90.5,General fitness,Advanced,At the gym,45,Balanced full-body
+56,98.3,Muscle building,Beginner,At home,45,Strength training
+40,98.5,Flexibility,Beginner,At the gym,45,Mobility and flexibility
+48,119.5,Flexibility,Intermediate,At the gym,20,Mobility and flexibility
+30,70.6,Fat loss,Beginner,At the gym,45,Low-impact cardio
+59,57.2,Endurance,Advanced,At the gym,20,Endurance training
+44,83.9,Muscle building,Advanced,At home,20,Strength training
+51,85.0,Fat loss,Advanced,At home,30,Low-impact cardio
+37,58.3,Flexibility,Beginner,At the gym,45,Mobility and flexibility
+55,91.0,Fat loss,Beginner,At home,45,Low-impact cardio
+21,46.1,Muscle building,Advanced,At the gym,60,Strength training
+22,114.6,Fat loss,Beginner,At home,60,Low-impact cardio
+39,64.8,General fitness,Intermediate,At the gym,30,Balanced full-body
+49,48.0,General fitness,Intermediate,At the gym,60,Balanced full-body
+52,53.1,Muscle building,Advanced,At the gym,20,Strength training
+36,63.0,Fat loss,Beginner,At the gym,60,Low-impact cardio
+45,65.5,Fat loss,Advanced,At home,30,Low-impact cardio
+41,47.5,Flexibility,Advanced,At home,60,Mobility and flexibility
+59,66.0,Flexibility,Beginner,At home,60,Mobility and flexibility
+46,59.5,Flexibility,Intermediate,At the gym,45,Mobility and flexibility
+35,73.4,General fitness,Beginner,At the gym,60,Balanced full-body
+59,73.9,General fitness,Intermediate,At the gym,20,Balanced full-body
+22,70.4,Endurance,Beginner,At home,20,Endurance training
+60,69.6,Endurance,Beginner,At the gym,45,Endurance training
+24,51.7,General fitness,Intermediate,At home,45,Balanced full-body
+30,46.9,Muscle building,Intermediate,At home,20,Strength training
+53,60.2,General fitness,Beginner,At home,45,Balanced full-body
+49,101.7,Fat loss,Beginner,At the gym,20,Low-impact cardio
+59,119.3,Fat loss,Beginner,At home,60,Low-impact cardio
+50,114.6,Endurance,Advanced,At the gym,20,Endurance training
+45,82.8,Flexibility,Intermediate,At the gym,30,Mobility and flexibility
+32,84.9,Fat loss,Beginner,At the gym,60,Low-impact cardio
+18,68.6,Fat loss,Beginner,At the gym,45,Low-impact cardio
+23,103.0,Fat loss,Advanced,At home,45,Endurance training
+30,102.4,Endurance,Beginner,At home,45,Endurance training
+19,108.3,Muscle building,Advanced,At the gym,60,Strength training
+39,112.2,Muscle building,Intermediate,At the gym,30,Strength training
+51,77.6,Fat loss,Beginner,At the gym,60,Low-impact cardio
+59,102.5,Flexibility,Beginner,At the gym,45,Mobility and flexibility
+39,105.5,General fitness,Beginner,At home,60,Balanced full-body
+55,68.1,Endurance,Advanced,At home,45,Endurance training
+60,114.7,Endurance,Intermediate,At home,20,Endurance training
+54,52.1,Fat loss,Intermediate,At home,45,Low-impact cardio
+37,119.6,Flexibility,Beginner,At the gym,60,Mobility and flexibility
+31,102.8,General fitness,Advanced,At the gym,20,Balanced full-body
+60,52.0,Endurance,Beginner,At the gym,60,Endurance training
+28,94.2,Muscle building,Intermediate,At the gym,20,Strength training
+35,47.6,Flexibility,Advanced,At home,60,Mobility and flexibility
+21,102.8,Flexibility,Advanced,At the gym,60,Mobility and flexibility
+52,104.9,General fitness,Intermediate,At home,20,Balanced full-body
+45,90.2,Fat loss,Advanced,At home,45,Endurance training
+21,109.3,Flexibility,Beginner,At home,20,Mobility and flexibility
+27,52.3,Flexibility,Advanced,At the gym,45,Mobility and flexibility
+41,65.7,General fitness,Intermediate,At the gym,60,Balanced full-body
+41,76.1,General fitness,Intermediate,At the gym,20,Balanced full-body
+52,48.2,Muscle building,Beginner,At the gym,20,Strength training
+29,78.6,Fat loss,Advanced,At home,30,Low-impact cardio
+57,64.9,Flexibility,Advanced,At home,30,Mobility and flexibility
+37,74.5,General fitness,Advanced,At the gym,20,Balanced full-body
+53,76.9,Muscle building,Beginner,At home,30,Strength training
+28,111.0,Endurance,Intermediate,At the gym,30,Endurance training
+19,65.3,Fat loss,Advanced,At home,20,Low-impact cardio
+20,112.0,Fat loss,Intermediate,At home,30,Low-impact cardio
+34,76.9,Muscle building,Advanced,At home,20,Strength training
+58,69.6,General fitness,Advanced,At home,60,Balanced full-body
+20,82.7,Muscle building,Beginner,At the gym,60,Strength training
+33,76.3,Fat loss,Intermediate,At the gym,30,Low-impact cardio
+22,64.3,Muscle building,Beginner,At the gym,60,Strength training
+58,82.7,Muscle building,Intermediate,At the gym,30,Strength training
+47,56.4,General fitness,Intermediate,At home,60,Balanced full-body
+50,71.4,General fitness,Advanced,At home,20,Balanced full-body
+48,87.4,Flexibility,Advanced,At home,30,Mobility and flexibility
+46,76.0,Flexibility,Intermediate,At the gym,45,Mobility and flexibility
+51,106.8,Muscle building,Intermediate,At home,20,Strength training
+18,64.3,Flexibility,Intermediate,At home,60,Mobility and flexibility
+55,117.7,General fitness,Intermediate,At the gym,30,Balanced full-body
+49,103.9,Fat loss,Intermediate,At the gym,30,Low-impact cardio
+49,117.6,Muscle building,Advanced,At the gym,30,Strength training
+34,107.9,Endurance,Advanced,At home,60,Endurance training
+52,55.7,Flexibility,Advanced,At the gym,20,Mobility and flexibility
+34,84.5,Muscle building,Beginner,At the gym,60,Strength training
+20,57.7,Fat loss,Intermediate,At home,60,Low-impact cardio
+57,106.4,Fat loss,Intermediate,At the gym,60,Low-impact cardio
+28,88.8,Fat loss,Intermediate,At the gym,60,Low-impact cardio
+22,64.8,Endurance,Intermediate,At home,60,Endurance training
+44,114.7,General fitness,Advanced,At home,45,Balanced full-body
+28,53.6,General fitness,Intermediate,At home,30,Balanced full-body
+54,87.3,Endurance,Beginner,At the gym,30,Endurance training
+37,99.1,Flexibility,Intermediate,At home,60,Mobility and flexibility
+18,49.4,Endurance,Advanced,At the gym,30,Endurance training
+58,89.8,Fat loss,Beginner,At the gym,45,Low-impact cardio
+40,106.2,General fitness,Beginner,At home,20,Balanced full-body
+29,50.1,Flexibility,Advanced,At the gym,30,Mobility and flexibility
+47,83.4,Endurance,Beginner,At the gym,30,Endurance training
+40,64.4,Muscle building,Intermediate,At the gym,30,Strength training
+19,94.7,Muscle building,Advanced,At home,45,Strength training
+50,53.9,Flexibility,Beginner,At home,45,Mobility and flexibility
+35,115.3,Fat loss,Intermediate,At the gym,30,Low-impact cardio
+48,112.1,General fitness,Beginner,At home,20,Balanced full-body
+56,58.9,Fat loss,Beginner,At home,45,Low-impact cardio
+44,69.2,Flexibility,Beginner,At the gym,20,Mobility and flexibility
+46,89.1,Fat loss,Beginner,At home,60,Low-impact cardio
+28,98.9,Fat loss,Intermediate,At the gym,60,Low-impact cardio
+28,78.2,Muscle building,Intermediate,At home,20,Strength training
+35,56.7,Muscle building,Beginner,At home,30,Strength training
+54,52.8,General fitness,Advanced,At home,20,Balanced full-body
+40,120.0,Muscle building,Advanced,At home,30,Strength training
+32,79.2,Muscle building,Beginner,At home,20,Strength training
+51,110.4,General fitness,Advanced,At home,60,Balanced full-body
+54,81.2,General fitness,Beginner,At home,20,Balanced full-body
+56,114.2,Flexibility,Intermediate,At the gym,45,Mobility and flexibility
+30,51.6,General fitness,Intermediate,At the gym,45,Balanced full-body
+48,53.6,General fitness,Intermediate,At home,20,Balanced full-body
+43,114.7,Endurance,Advanced,At home,60,Endurance training
+37,116.1,Fat loss,Advanced,At home,20,Low-impact cardio
+35,68.6,Endurance,Beginner,At home,60,Endurance training
+22,71.6,Flexibility,Intermediate,At the gym,45,Mobility and flexibility
+29,78.9,Muscle building,Advanced,At the gym,45,Strength training
+41,76.2,Fat loss,Advanced,At home,60,Endurance training
+56,59.3,Muscle building,Advanced,At the gym,30,Strength training
+55,112.4,Muscle building,Intermediate,At the gym,30,Strength training
+26,64.0,General fitness,Beginner,At home,20,Balanced full-body
+47,97.9,Flexibility,Intermediate,At the gym,60,Mobility and flexibility
+21,50.0,General fitness,Advanced,At home,30,Balanced full-body
+47,47.9,Fat loss,Advanced,At the gym,60,Endurance training
+32,94.0,Muscle building,Advanced,At the gym,30,Strength training
+37,70.4,Endurance,Advanced,At home,60,Endurance training
+48,94.2,Muscle building,Intermediate,At the gym,60,Strength training
+36,52.1,General fitness,Beginner,At the gym,30,Balanced full-body
+52,116.2,Endurance,Intermediate,At home,30,Endurance training
+40,101.1,Muscle building,Intermediate,At home,60,Strength training
+60,110.7,Endurance,Advanced,At the gym,20,Endurance training
+45,55.2,Muscle building,Intermediate,At home,20,Strength training
+30,69.0,Fat loss,Advanced,At home,30,Low-impact cardio
+51,72.6,Muscle building,Beginner,At the gym,45,Strength training
+35,85.3,General fitness,Advanced,At home,20,Balanced full-body
+40,67.3,Fat loss,Intermediate,At the gym,30,Low-impact cardio
+23,49.5,Flexibility,Advanced,At the gym,60,Mobility and flexibility
+23,72.7,General fitness,Intermediate,At the gym,20,Balanced full-body
+42,64.1,Fat loss,Intermediate,At the gym,20,Low-impact cardio
+26,73.9,Flexibility,Beginner,At the gym,30,Mobility and flexibility
+60,59.8,Flexibility,Advanced,At the gym,20,Mobility and flexibility
+54,64.6,Fat loss,Advanced,At the gym,20,Low-impact cardio
+48,92.0,Fat loss,Advanced,At home,20,Low-impact cardio
+49,74.1,Muscle building,Beginner,At the gym,20,Strength training
+43,70.9,General fitness,Beginner,At home,60,Balanced full-body
+20,85.0,Endurance,Advanced,At the gym,20,Endurance training
+34,102.9,General fitness,Beginner,At home,45,Balanced full-body
+39,73.4,Endurance,Intermediate,At home,45,Endurance training
+57,89.1,Fat loss,Intermediate,At home,45,Low-impact cardio
+27,117.5,Endurance,Advanced,At the gym,45,Endurance training
+39,84.1,Flexibility,Advanced,At home,30,Mobility and flexibility
+32,113.2,General fitness,Advanced,At home,60,Balanced full-body
+23,104.5,General fitness,Beginner,At the gym,20,Balanced full-body
+22,49.4,Muscle building,Intermediate,At the gym,20,Strength training
+33,77.2,Flexibility,Advanced,At the gym,60,Mobility and flexibility
+21,97.4,Fat loss,Advanced,At home,20,Low-impact cardio
+20,119.0,Muscle building,Beginner,At the gym,20,Strength training
+33,79.4,Fat loss,Advanced,At the gym,20,Low-impact cardio
+26,52.0,Flexibility,Intermediate,At home,20,Mobility and flexibility
+41,87.2,General fitness,Beginner,At the gym,20,Balanced full-body
+18,54.5,Flexibility,Intermediate,At home,45,Mobility and flexibility
+30,101.4,Endurance,Advanced,At home,45,Endurance training
+37,83.1,General fitness,Beginner,At the gym,20,Balanced full-body
+59,99.3,General fitness,Beginner,At home,60,Balanced full-body
+45,110.2,Muscle building,Advanced,At home,20,Strength training
+55,92.2,General fitness,Advanced,At home,45,Balanced full-body
+32,90.9,Endurance,Beginner,At the gym,60,Endurance training
+37,101.6,Flexibility,Advanced,At home,45,Mobility and flexibility
+36,108.2,General fitness,Advanced,At home,30,Balanced full-body
+56,110.2,Flexibility,Advanced,At the gym,20,Mobility and flexibility
+59,47.7,Flexibility,Beginner,At the gym,20,Mobility and flexibility
+59,86.7,General fitness,Intermediate,At home,60,Balanced full-body
+50,61.2,General fitness,Advanced,At the gym,30,Balanced full-body
+39,109.5,Fat loss,Advanced,At home,20,Low-impact cardio
+41,93.6,Muscle building,Intermediate,At the gym,45,Strength training
+60,76.5,Flexibility,Beginner,At the gym,45,Mobility and flexibility
+30,59.1,Fat loss,Beginner,At the gym,20,Low-impact cardio
+32,70.4,Muscle building,Beginner,At home,20,Strength training
+56,97.8,Endurance,Beginner,At the gym,20,Endurance training
+34,60.3,Muscle building,Beginner,At the gym,20,Strength training
+28,52.0,Flexibility,Beginner,At home,45,Mobility and flexibility
+42,111.6,Endurance,Advanced,At home,20,Endurance training
+31,102.3,Fat loss,Intermediate,At the gym,45,Low-impact cardio
+56,60.0,Muscle building,Intermediate,At home,20,Strength training
+57,66.9,Endurance,Advanced,At the gym,60,Endurance training
+31,117.9,Flexibility,Intermediate,At home,45,Mobility and flexibility
+40,98.1,Flexibility,Intermediate,At the gym,30,Mobility and flexibility
+60,90.8,Flexibility,Beginner,At the gym,30,Mobility and flexibility
+49,68.1,Fat loss,Intermediate,At home,20,Low-impact cardio
+27,67.4,Endurance,Beginner,At home,20,Endurance training
+43,48.0,Fat loss,Intermediate,At home,45,Low-impact cardio
+44,99.6,Fat loss,Advanced,At the gym,20,Low-impact cardio
+46,48.2,Endurance,Intermediate,At the gym,45,Endurance training
+19,45.4,General fitness,Beginner,At home,30,Balanced full-body
+30,99.7,Endurance,Advanced,At the gym,20,Endurance training
+54,116.2,Flexibility,Advanced,At the gym,45,Mobility and flexibility
+28,101.7,Fat loss,Intermediate,At home,45,Low-impact cardio
+30,80.4,General fitness,Beginner,At the gym,45,Balanced full-body
+31,81.5,Flexibility,Advanced,At home,20,Mobility and flexibility
+25,77.7,General fitness,Beginner,At the gym,45,Balanced full-body
+24,69.3,General fitness,Advanced,At home,60,Balanced full-body
+32,84.1,General fitness,Beginner,At home,30,Balanced full-body
+55,77.3,Flexibility,Intermediate,At home,60,Mobility and flexibility
+18,89.9,Fat loss,Advanced,At home,45,Endurance training
+30,112.4,Flexibility,Beginner,At home,30,Mobility and flexibility
+20,119.6,Flexibility,Beginner,At the gym,60,Mobility and flexibility
+42,50.9,Flexibility,Beginner,At home,60,Mobility and flexibility
+28,73.9,General fitness,Intermediate,At the gym,20,Balanced full-body
+52,58.6,General fitness,Intermediate,At home,60,Balanced full-body
+43,71.4,Muscle building,Beginner,At home,20,Strength training
+51,66.6,Muscle building,Intermediate,At the gym,20,Strength training
+45,58.1,Flexibility,Advanced,At home,20,Mobility and flexibility
+36,102.3,General fitness,Advanced,At home,30,Balanced full-body
+55,82.2,Endurance,Beginner,At the gym,60,Endurance training
+38,113.9,Fat loss,Intermediate,At home,45,Low-impact cardio
+58,47.4,Endurance,Beginner,At the gym,45,Endurance training
+60,50.0,Endurance,Intermediate,At home,20,Endurance training
+43,75.2,Flexibility,Advanced,At the gym,45,Mobility and flexibility
+47,51.0,Fat loss,Advanced,At home,30,Low-impact cardio
+28,64.7,General fitness,Beginner,At home,30,Balanced full-body
+53,119.0,General fitness,Beginner,At the gym,30,Balanced full-body
+46,60.7,General fitness,Advanced,At the gym,20,Balanced full-body
+56,59.9,Fat loss,Advanced,At the gym,60,Endurance training
+29,88.0,General fitness,Beginner,At home,45,Balanced full-body
+51,82.3,Muscle building,Beginner,At home,30,Strength training
+38,88.5,Endurance,Intermediate,At the gym,20,Endurance training
+25,73.3,Muscle building,Intermediate,At home,60,Strength training
+25,107.0,General fitness,Intermediate,At home,30,Balanced full-body
+42,55.4,Endurance,Advanced,At home,30,Endurance training
+31,77.1,Fat loss,Advanced,At the gym,45,Endurance training
+22,96.7,Endurance,Advanced,At home,20,Endurance training
+36,110.1,Endurance,Beginner,At home,45,Endurance training
+46,72.7,Fat loss,Advanced,At home,60,Endurance training
+31,87.6,Fat loss,Advanced,At home,30,Low-impact cardio
+59,50.2,Flexibility,Intermediate,At home,20,Mobility and flexibility
+51,57.8,Muscle building,Intermediate,At home,20,Strength training
+40,50.2,Flexibility,Advanced,At home,20,Mobility and flexibility
+58,99.6,General fitness,Advanced,At home,45,Balanced full-body
+36,66.6,Muscle building,Intermediate,At the gym,30,Strength training
+24,99.3,Muscle building,Beginner,At the gym,20,Strength training
+19,50.0,Endurance,Intermediate,At home,45,Endurance training
+58,109.7,Fat loss,Advanced,At home,20,Low-impact cardio
+59,107.7,General fitness,Beginner,At home,30,Balanced full-body
+49,51.7,Muscle building,Advanced,At home,60,Strength training
+22,46.8,Fat loss,Beginner,At home,20,Low-impact cardio
+30,49.2,Muscle building,Advanced,At the gym,20,Strength training
+19,109.0,General fitness,Intermediate,At home,30,Balanced full-body
+20,62.6,Endurance,Beginner,At the gym,45,Endurance training
+28,86.1,Fat loss,Beginner,At home,20,Low-impact cardio
+42,77.0,Flexibility,Beginner,At home,60,Mobility and flexibility
+20,104.7,Flexibility,Advanced,At home,20,Mobility and flexibility
+60,81.7,Endurance,Intermediate,At home,60,Endurance training
+37,82.5,Flexibility,Advanced,At home,45,Mobility and flexibility
+29,119.2,General fitness,Beginner,At home,20,Balanced full-body
+40,56.3,Flexibility,Advanced,At home,20,Mobility and flexibility
+51,107.3,Endurance,Advanced,At the gym,20,Endurance training
+31,48.9,General fitness,Beginner,At the gym,30,Balanced full-body
+20,80.8,Fat loss,Intermediate,At home,30,Low-impact cardio
+20,111.5,General fitness,Advanced,At the gym,45,Balanced full-body
+54,94.9,Flexibility,Beginner,At home,30,Mobility and flexibility
+22,96.4,Flexibility,Beginner,At home,45,Mobility and flexibility
+45,64.7,General fitness,Advanced,At home,30,Balanced full-body
+34,76.4,Muscle building,Intermediate,At home,30,Strength training
+51,72.5,Endurance,Beginner,At the gym,30,Endurance training
+20,84.1,Fat loss,Advanced,At the gym,30,Low-impact cardio
+56,79.7,Fat loss,Advanced,At the gym,60,Endurance training
+48,69.5,General fitness,Beginner,At the gym,20,Balanced full-body
+37,67.9,Flexibility,Beginner,At the gym,30,Mobility and flexibility
+26,63.8,Muscle building,Beginner,At home,60,Strength training
+60,72.4,General fitness,Advanced,At home,45,Balanced full-body
+30,56.2,Muscle building,Beginner,At home,20,Strength training
+39,110.4,General fitness,Advanced,At the gym,60,Balanced full-body
+34,90.2,Fat loss,Intermediate,At home,20,Low-impact cardio
+27,55.0,General fitness,Intermediate,At the gym,20,Balanced full-body
+35,97.0,General fitness,Advanced,At the gym,30,Balanced full-body
+24,108.6,Muscle building,Advanced,At home,45,Strength training
+18,62.8,Muscle building,Beginner,At home,20,Strength training
+30,56.3,Endurance,Beginner,At the gym,60,Endurance training
+22,45.6,Fat loss,Beginner,At home,20,Low-impact cardio
+35,48.5,Fat loss,Advanced,At home,60,Endurance training
+55,102.2,Fat loss,Intermediate,At home,20,Low-impact cardio
+24,119.0,Flexibility,Beginner,At the gym,30,Mobility and flexibility
+18,48.4,Muscle building,Beginner,At home,45,Strength training
+22,101.1,Fat loss,Intermediate,At the gym,30,Low-impact cardio
+39,50.4,Flexibility,Advanced,At home,45,Mobility and flexibility
+29,89.4,Fat loss,Intermediate,At the gym,45,Low-impact cardio
+39,101.7,Muscle building,Advanced,At the gym,45,Strength training
+19,71.9,Fat loss,Advanced,At home,30,Low-impact cardio
+32,45.8,Endurance,Advanced,At the gym,60,Endurance training
+35,89.6,Endurance,Intermediate,At home,45,Endurance training
+36,119.3,Endurance,Advanced,At home,30,Endurance training
+41,64.3,Muscle building,Advanced,At the gym,45,Strength training
+51,59.2,Muscle building,Intermediate,At home,60,Strength training
+38,54.3,Flexibility,Intermediate,At the gym,60,Mobility and flexibility
+54,86.6,Flexibility,Advanced,At the gym,45,Mobility and flexibility
+40,89.7,Fat loss,Intermediate,At home,60,Low-impact cardio
+29,104.4,Endurance,Beginner,At home,60,Endurance training
+27,101.5,Flexibility,Advanced,At the gym,30,Mobility and flexibility
+31,111.9,General fitness,Beginner,At home,45,Balanced full-body
+43,105.4,Endurance,Advanced,At home,20,Endurance training
+28,63.5,Fat loss,Intermediate,At home,30,Low-impact cardio
+57,86.7,Fat loss,Intermediate,At home,60,Low-impact cardio
+38,67.3,Fat loss,Beginner,At the gym,30,Low-impact cardio
+55,69.7,Fat loss,Intermediate,At home,60,Low-impact cardio
+47,114.9,Flexibility,Advanced,At the gym,30,Mobility and flexibility
+32,96.1,Endurance,Beginner,At the gym,20,Endurance training
+27,118.1,Endurance,Advanced,At the gym,20,Endurance training
+49,76.3,Muscle building,Advanced,At the gym,45,Strength training
+32,85.3,Flexibility,Advanced,At the gym,30,Mobility and flexibility
+28,81.5,Fat loss,Intermediate,At home,45,Low-impact cardio
+58,53.0,Flexibility,Beginner,At home,20,Mobility and flexibility
+38,62.8,Fat loss,Advanced,At the gym,30,Low-impact cardio
+20,84.6,Fat loss,Intermediate,At home,20,Low-impact cardio
+39,50.1,Fat loss,Intermediate,At the gym,30,Low-impact cardio
+37,114.9,Endurance,Advanced,At home,60,Endurance training
+55,54.3,Muscle building,Advanced,At the gym,20,Strength training
+48,59.8,General fitness,Beginner,At the gym,45,Balanced full-body
+26,102.4,General fitness,Advanced,At home,20,Balanced full-body
+24,52.3,Endurance,Intermediate,At the gym,45,Endurance training
+43,112.5,Muscle building,Advanced,At home,60,Strength training
+20,99.4,Fat loss,Intermediate,At home,30,Low-impact cardio
+31,50.1,Muscle building,Advanced,At the gym,20,Strength training
+23,96.9,Muscle building,Advanced,At the gym,45,Strength training
+18,92.4,Endurance,Advanced,At the gym,30,Endurance training
+57,101.8,Endurance,Advanced,At home,60,Endurance training
+21,107.1,Fat loss,Intermediate,At home,60,Low-impact cardio
+18,98.9,Endurance,Beginner,At home,45,Endurance training
+58,89.0,Fat loss,Intermediate,At the gym,45,Low-impact cardio
+26,69.2,Endurance,Intermediate,At home,45,Endurance training
+53,97.3,Muscle building,Advanced,At the gym,45,Strength training
+19,116.8,Muscle building,Intermediate,At the gym,30,Strength training
+24,89.1,General fitness,Intermediate,At home,60,Balanced full-body
+22,94.8,Muscle building,Beginner,At the gym,30,Strength training
+48,77.8,Endurance,Advanced,At home,20,Endurance training
+44,101.7,Flexibility,Intermediate,At home,45,Mobility and flexibility
+38,119.8,Flexibility,Beginner,At home,45,Mobility and flexibility
+28,57.0,General fitness,Beginner,At the gym,60,Balanced full-body
+21,60.2,General fitness,Advanced,At the gym,30,Balanced full-body
+42,85.5,General fitness,Beginner,At the gym,30,Balanced full-body
+27,81.1,Endurance,Intermediate,At the gym,45,Endurance training
+43,87.9,General fitness,Intermediate,At the gym,30,Balanced full-body
+47,48.7,General fitness,Beginner,At the gym,60,Balanced full-body
+54,75.3,General fitness,Beginner,At the gym,30,Balanced full-body
+39,88.7,Muscle building,Advanced,At home,60,Strength training
+18,88.9,General fitness,Intermediate,At home,30,Balanced full-body
+30,94.3,Endurance,Beginner,At the gym,20,Endurance training
+54,99.0,General fitness,Beginner,At the gym,60,Balanced full-body
+40,93.1,Flexibility,Intermediate,At the gym,45,Mobility and flexibility
+44,104.3,Flexibility,Advanced,At the gym,45,Mobility and flexibility
+37,91.9,General fitness,Advanced,At the gym,45,Balanced full-body
+24,85.3,Flexibility,Beginner,At the gym,30,Mobility and flexibility
+56,90.5,Fat loss,Advanced,At the gym,60,Endurance training
+51,52.6,Flexibility,Advanced,At home,30,Mobility and flexibility
+60,65.5,Muscle building,Beginner,At the gym,60,Strength training
+54,84.6,General fitness,Beginner,At the gym,30,Balanced full-body
+30,110.5,Muscle building,Advanced,At the gym,20,Strength training
+28,95.9,General fitness,Intermediate,At the gym,20,Balanced full-body
+28,51.8,Muscle building,Advanced,At home,60,Strength training
+57,89.4,Endurance,Beginner,At home,45,Endurance training
+41,61.6,Fat loss,Beginner,At the gym,30,Low-impact cardio
+37,100.1,Flexibility,Beginner,At the gym,60,Mobility and flexibility
+59,107.1,Flexibility,Beginner,At home,45,Mobility and flexibility
+43,89.5,General fitness,Intermediate,At home,45,Balanced full-body
+57,89.4,General fitness,Beginner,At the gym,45,Balanced full-body
+60,70.4,Endurance,Advanced,At home,20,Endurance training
+21,78.5,Fat loss,Intermediate,At the gym,20,Low-impact cardio
+33,109.8,Endurance,Advanced,At home,45,Endurance training
+49,99.2,Muscle building,Intermediate,At home,20,Strength training
+52,84.0,Endurance,Beginner,At the gym,45,Endurance training
+24,72.6,Muscle building,Intermediate,At the gym,20,Strength training
+31,48.8,Endurance,Beginner,At the gym,30,Endurance training
+41,55.7,Endurance,Advanced,At the gym,45,Endurance training
+52,59.5,Muscle building,Advanced,At home,45,Strength training
+22,73.0,Endurance,Beginner,At the gym,60,Endurance training
+43,115.8,General fitness,Intermediate,At the gym,45,Balanced full-body
+30,82.9,Muscle building,Intermediate,At the gym,20,Strength training
+27,62.6,General fitness,Beginner,At home,60,Balanced full-body
+40,52.9,Flexibility,Beginner,At the gym,20,Mobility and flexibility
+35,70.4,Fat loss,Advanced,At home,20,Low-impact cardio
+45,106.2,Flexibility,Beginner,At the gym,60,Mobility and flexibility
+31,73.8,Flexibility,Intermediate,At the gym,20,Mobility and flexibility
+53,102.9,General fitness,Beginner,At home,45,Balanced full-body
+21,105.2,Endurance,Intermediate,At the gym,30,Endurance training
+55,53.3,Muscle building,Beginner,At the gym,60,Strength training
+19,90.6,Fat loss,Intermediate,At the gym,20,Low-impact cardio
+49,116.9,General fitness,Intermediate,At the gym,20,Balanced full-body
+32,75.2,Flexibility,Intermediate,At the gym,30,Mobility and flexibility
+34,48.8,Muscle building,Intermediate,At home,30,Strength training
+18,114.2,Endurance,Beginner,At the gym,60,Endurance training
+48,111.3,Endurance,Intermediate,At the gym,45,Endurance training
+25,84.2,Endurance,Advanced,At home,20,Endurance training
+46,86.4,Muscle building,Intermediate,At home,60,Strength training
+49,60.9,Muscle building,Beginner,At home,30,Strength training
+54,106.5,General fitness,Advanced,At the gym,60,Balanced full-body
+48,82.4,Flexibility,Advanced,At home,60,Mobility and flexibility
+30,47.5,Flexibility,Advanced,At the gym,20,Mobility and flexibility
+49,96.2,General fitness,Advanced,At the gym,45,Balanced full-body
+53,116.3,Flexibility,Advanced,At home,30,Mobility and flexibility
+31,107.2,General fitness,Advanced,At the gym,30,Balanced full-body
+23,65.8,Muscle building,Intermediate,At the gym,30,Strength training
+56,49.0,Fat loss,Beginner,At the gym,45,Low-impact cardio
+24,115.5,Endurance,Intermediate,At the gym,30,Endurance training
+43,115.3,Endurance,Beginner,At home,20,Endurance training
+28,84.9,Flexibility,Advanced,At home,30,Mobility and flexibility
+23,93.2,Endurance,Intermediate,At home,20,Endurance training
+51,79.7,Fat loss,Advanced,At home,60,Endurance training
+24,76.5,General fitness,Intermediate,At the gym,45,Balanced full-body
+46,54.0,Endurance,Intermediate,At home,30,Endurance training
+47,52.3,General fitness,Advanced,At the gym,30,Balanced full-body
+20,62.5,General fitness,Intermediate,At the gym,20,Balanced full-body
+25,107.7,Flexibility,Intermediate,At home,30,Mobility and flexibility
+52,55.9,Endurance,Intermediate,At the gym,60,Endurance training
+39,62.0,Endurance,Advanced,At home,20,Endurance training
+23,86.1,General fitness,Advanced,At the gym,20,Balanced full-body
+60,61.1,Muscle building,Beginner,At home,60,Strength training
+29,57.2,General fitness,Intermediate,At home,45,Balanced full-body
+18,87.2,Flexibility,Intermediate,At home,20,Mobility and flexibility
+57,72.6,Endurance,Intermediate,At the gym,30,Endurance training
+18,92.0,Endurance,Beginner,At home,45,Endurance training
+41,113.4,Fat loss,Advanced,At the gym,30,Low-impact cardio
+60,56.3,Flexibility,Advanced,At home,30,Mobility and flexibility
+42,113.5,Muscle building,Beginner,At home,45,Strength training
+43,112.7,Flexibility,Beginner,At the gym,45,Mobility and flexibility
+34,107.2,General fitness,Intermediate,At the gym,60,Balanced full-body
+23,92.3,Flexibility,Beginner,At home,20,Mobility and flexibility
+42,91.5,Flexibility,Advanced,At home,30,Mobility and flexibility
+56,92.9,Endurance,Advanced,At home,20,Endurance training
+21,96.8,Flexibility,Advanced,At the gym,45,Mobility and flexibility
+55,46.2,Endurance,Intermediate,At home,45,Endurance training
+35,116.9,Flexibility,Advanced,At home,30,Mobility and flexibility
+41,88.9,Fat loss,Beginner,At the gym,45,Low-impact cardio
+25,103.6,Fat loss,Beginner,At home,30,Low-impact cardio
+44,73.3,General fitness,Beginner,At home,20,Balanced full-body
+25,45.9,Flexibility,Advanced,At the gym,45,Mobility and flexibility
+29,83.2,Endurance,Intermediate,At home,30,Endurance training
+49,83.0,General fitness,Beginner,At home,30,Balanced full-body
+20,77.8,General fitness,Beginner,At home,30,Balanced full-body
+37,70.5,Endurance,Intermediate,At the gym,60,Endurance training
+43,63.7,Flexibility,Beginner,At the gym,20,Mobility and flexibility
+23,84.6,Flexibility,Intermediate,At the gym,30,Mobility and flexibility
+30,73.1,Fat loss,Intermediate,At the gym,45,Low-impact cardio
+32,117.7,General fitness,Beginner,At home,20,Balanced full-body
+46,58.0,Muscle building,Beginner,At home,20,Strength training
+59,69.0,Endurance,Intermediate,At home,45,Endurance training
+53,67.0,General fitness,Intermediate,At home,45,Balanced full-body
+26,85.7,Flexibility,Beginner,At the gym,45,Mobility and flexibility
+18,82.4,General fitness,Intermediate,At home,20,Balanced full-body
+20,93.3,Endurance,Intermediate,At the gym,60,Endurance training
+43,116.3,Fat loss,Beginner,At the gym,30,Low-impact cardio
+24,66.4,Flexibility,Intermediate,At home,20,Mobility and flexibility
+27,97.0,Fat loss,Beginner,At the gym,30,Low-impact cardio
+54,46.9,Muscle building,Beginner,At the gym,20,Strength training
+55,64.7,Flexibility,Beginner,At home,30,Mobility and flexibility
+54,79.8,Flexibility,Beginner,At home,30,Mobility and flexibility
+28,47.3,General fitness,Beginner,At home,30,Balanced full-body
+44,91.3,General fitness,Advanced,At the gym,30,Balanced full-body
+44,95.9,Fat loss,Beginner,At the gym,60,Low-impact cardio
+25,101.0,Flexibility,Advanced,At home,60,Mobility and flexibility
+41,83.7,Fat loss,Advanced,At the gym,30,Low-impact cardio
+40,90.3,Fat loss,Advanced,At home,60,Endurance training
+35,74.7,General fitness,Advanced,At home,60,Balanced full-body
+50,48.1,Fat loss,Beginner,At home,60,Low-impact cardio
+47,52.5,Fat loss,Intermediate,At home,20,Low-impact cardio
+40,94.1,Endurance,Advanced,At home,30,Endurance training
+49,119.7,Endurance,Intermediate,At home,30,Endurance training
+50,46.2,Muscle building,Beginner,At home,20,Strength training
+42,86.8,Endurance,Intermediate,At the gym,20,Endurance training
+29,101.3,Endurance,Advanced,At home,45,Endurance training
+50,107.0,Muscle building,Advanced,At the gym,30,Strength training
+48,85.9,Endurance,Intermediate,At the gym,60,Endurance training
+60,91.5,General fitness,Beginner,At the gym,45,Balanced full-body
+24,97.3,Flexibility,Beginner,At home,20,Mobility and flexibility
+36,109.4,Fat loss,Beginner,At the gym,60,Low-impact cardio
+57,54.2,Muscle building,Intermediate,At home,30,Strength training
+40,114.5,Muscle building,Beginner,At home,45,Strength training
+58,47.0,Muscle building,Intermediate,At the gym,60,Strength training
+18,107.7,Flexibility,Beginner,At home,45,Mobility and flexibility
+19,50.8,Endurance,Beginner,At the gym,20,Endurance training
+52,59.6,General fitness,Beginner,At home,20,Balanced full-body
+33,45.3,General fitness,Beginner,At the gym,30,Balanced full-body
+40,78.4,Flexibility,Advanced,At the gym,20,Mobility and flexibility
+36,70.1,General fitness,Advanced,At the gym,20,Balanced full-body
+35,57.4,Muscle building,Advanced,At the gym,60,Strength training
+58,78.8,Fat loss,Intermediate,At the gym,20,Low-impact cardio
+22,75.2,Muscle building,Beginner,At home,20,Strength training
+51,102.6,Endurance,Advanced,At home,45,Endurance training
+56,112.0,General fitness,Intermediate,At home,20,Balanced full-body
+46,93.9,General fitness,Advanced,At the gym,30,Balanced full-body
+34,54.3,General fitness,Intermediate,At the gym,60,Balanced full-body
+24,67.2,Flexibility,Intermediate,At the gym,45,Mobility and flexibility
+47,113.5,Flexibility,Intermediate,At the gym,60,Mobility and flexibility
+38,51.7,Fat loss,Beginner,At home,30,Low-impact cardio
+24,75.5,Fat loss,Intermediate,At the gym,45,Low-impact cardio
+33,115.7,Muscle building,Advanced,At the gym,20,Strength training
+59,116.3,Flexibility,Beginner,At home,30,Mobility and flexibility
+29,75.8,General fitness,Beginner,At home,20,Balanced full-body
+25,95.1,Flexibility,Advanced,At the gym,60,Mobility and flexibility
+47,79.3,Endurance,Intermediate,At home,20,Endurance training
+26,101.5,General fitness,Advanced,At the gym,20,Balanced full-body
+57,47.4,Muscle building,Intermediate,At the gym,30,Strength training
+54,55.8,Muscle building,Intermediate,At the gym,30,Strength training
+60,91.1,Fat loss,Advanced,At the gym,30,Low-impact cardio
+57,62.4,General fitness,Intermediate,At the gym,30,Balanced full-body
+28,95.0,Muscle building,Beginner,At the gym,30,Strength training
+27,71.3,Muscle building,Intermediate,At the gym,60,Strength training
+32,111.5,Fat loss,Beginner,At home,45,Low-impact cardio
+38,106.4,Endurance,Intermediate,At the gym,60,Endurance training
+55,82.0,Flexibility,Advanced,At the gym,60,Mobility and flexibility
+49,103.0,General fitness,Beginner,At the gym,45,Balanced full-body
+45,65.3,General fitness,Advanced,At home,60,Balanced full-body
+55,82.1,Flexibility,Intermediate,At home,20,Mobility and flexibility
+45,59.8,General fitness,Beginner,At the gym,60,Balanced full-body
+34,109.6,Endurance,Beginner,At home,30,Endurance training
+35,106.7,General fitness,Advanced,At home,45,Balanced full-body
+40,112.7,General fitness,Advanced,At the gym,20,Balanced full-body
+21,110.8,General fitness,Advanced,At home,20,Balanced full-body
+49,117.0,Endurance,Intermediate,At the gym,60,Endurance training
+46,62.1,Endurance,Intermediate,At home,30,Endurance training
+49,114.9,General fitness,Intermediate,At home,20,Balanced full-body
+40,87.8,Fat loss,Intermediate,At the gym,45,Low-impact cardio
+51,76.7,Flexibility,Beginner,At home,20,Mobility and flexibility
+58,87.0,Flexibility,Beginner,At the gym,30,Mobility and flexibility
+42,70.7,Fat loss,Advanced,At the gym,45,Endurance training
+37,66.6,Muscle building,Intermediate,At home,45,Strength training
+22,63.1,Flexibility,Beginner,At the gym,30,Mobility and flexibility
+51,51.2,Muscle building,Advanced,At home,30,Strength training
+56,82.2,Flexibility,Beginner,At the gym,60,Mobility and flexibility
+48,111.6,Endurance,Intermediate,At home,20,Endurance training
+55,92.3,Flexibility,Beginner,At home,20,Mobility and flexibility
+55,84.1,Fat loss,Intermediate,At home,20,Low-impact cardio
+52,77.1,General fitness,Intermediate,At the gym,60,Balanced full-body
+39,79.8,General fitness,Advanced,At home,30,Balanced full-body
+22,60.7,Flexibility,Advanced,At the gym,20,Mobility and flexibility
+18,106.7,Muscle building,Advanced,At home,20,Strength training
+26,59.9,Muscle building,Beginner,At home,20,Strength training
+36,98.7,Fat loss,Beginner,At the gym,60,Low-impact cardio
+49,102.0,Endurance,Advanced,At home,30,Endurance training
+37,88.1,Flexibility,Advanced,At home,20,Mobility and flexibility
+18,109.7,Fat loss,Beginner,At the gym,20,Low-impact cardio
+27,66.8,Muscle building,Beginner,At the gym,45,Strength training
+60,111.1,Muscle building,Intermediate,At home,45,Strength training
+60,99.7,Flexibility,Beginner,At the gym,60,Mobility and flexibility
+34,104.9,General fitness,Beginner,At the gym,20,Balanced full-body
+52,94.8,Muscle building,Advanced,At home,20,Strength training
+48,108.5,Muscle building,Intermediate,At the gym,20,Strength training
+58,119.5,General fitness,Beginner,At the gym,30,Balanced full-body
+56,76.5,Muscle building,Intermediate,At the gym,45,Strength training
+45,106.0,Fat loss,Intermediate,At home,45,Low-impact cardio
+34,100.8,Flexibility,Intermediate,At home,20,Mobility and flexibility
+44,79.0,General fitness,Advanced,At the gym,45,Balanced full-body
+31,114.5,Muscle building,Beginner,At the gym,45,Strength training
+32,74.6,Endurance,Intermediate,At home,20,Endurance training
+44,87.4,Endurance,Advanced,At home,45,Endurance training
+42,52.9,Fat loss,Intermediate,At the gym,30,Low-impact cardio
+42,61.9,Fat loss,Advanced,At the gym,20,Low-impact cardio
+34,108.1,Fat loss,Intermediate,At home,30,Low-impact cardio
+35,74.7,Endurance,Intermediate,At home,60,Endurance training
+18,74.6,Endurance,Advanced,At the gym,45,Endurance training
+43,63.4,Endurance,Intermediate,At the gym,30,Endurance training
+42,81.9,Endurance,Advanced,At the gym,60,Endurance training
+58,105.4,General fitness,Advanced,At the gym,30,Balanced full-body
+39,112.1,General fitness,Advanced,At the gym,30,Balanced full-body
+38,50.3,Endurance,Beginner,At home,20,Endurance training
+20,88.1,Muscle building,Intermediate,At home,60,Strength training
+26,80.0,Flexibility,Advanced,At home,60,Mobility and flexibility
+32,91.1,Flexibility,Intermediate,At home,20,Mobility and flexibility
+34,78.5,Flexibility,Beginner,At the gym,45,Mobility and flexibility
+33,74.9,Flexibility,Beginner,At the gym,60,Mobility and flexibility
+34,80.4,Muscle building,Advanced,At home,45,Strength training
+51,88.6,Fat loss,Beginner,At home,20,Low-impact cardio
+23,82.6,General fitness,Beginner,At home,60,Balanced full-body
+32,80.4,Endurance,Advanced,At home,30,Endurance training
+25,106.3,Endurance,Beginner,At home,30,Endurance training
+31,100.9,Muscle building,Advanced,At home,30,Strength training
+47,70.6,Muscle building,Intermediate,At the gym,60,Strength training
+20,105.0,General fitness,Advanced,At home,45,Balanced full-body
+32,109.0,Flexibility,Intermediate,At the gym,45,Mobility and flexibility
+19,56.5,Fat loss,Advanced,At home,60,Endurance training
+59,88.7,Muscle building,Advanced,At home,60,Strength training
+49,66.4,Muscle building,Beginner,At the gym,60,Strength training
+28,100.4,Flexibility,Advanced,At the gym,60,Mobility and flexibility
+26,62.9,General fitness,Advanced,At home,60,Balanced full-body
+22,95.4,Fat loss,Beginner,At home,60,Low-impact cardio
+38,64.1,Muscle building,Beginner,At home,45,Strength training
+50,83.3,Fat loss,Beginner,At home,20,Low-impact cardio
+43,116.1,General fitness,Beginner,At the gym,20,Balanced full-body
+55,73.6,Flexibility,Intermediate,At home,60,Mobility and flexibility
+32,110.7,General fitness,Advanced,At home,30,Balanced full-body
+29,119.0,Flexibility,Intermediate,At home,60,Mobility and flexibility
+38,110.6,Endurance,Beginner,At home,60,Endurance training
+26,57.4,Flexibility,Intermediate,At home,45,Mobility and flexibility
+59,106.5,Muscle building,Beginner,At home,60,Strength training
+25,47.4,Flexibility,Advanced,At the gym,30,Mobility and flexibility
+38,74.5,Muscle building,Beginner,At home,30,Strength training
+40,110.3,General fitness,Advanced,At home,60,Balanced full-body

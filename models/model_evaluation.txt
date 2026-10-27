@@ -1,0 +1,20 @@
+AI Fitness Coaching - Model Evaluation
+Dataset: generated demonstration data
+This score is not real-world validation.
+
+Rows: 1800
+Training rows: 1440
+Testing rows: 360
+Test accuracy: 100.00%
+
+                          precision    recall  f1-score   support
+
+      Balanced full-body       1.00      1.00      1.00        74
+      Endurance training       1.00      1.00      1.00        83
+       Low-impact cardio       1.00      1.00      1.00        65
+Mobility and flexibility       1.00      1.00      1.00        67
+       Strength training       1.00      1.00      1.00        71
+
+                accuracy                           1.00       360
+               macro avg       1.00      1.00      1.00       360
+            weighted avg       1.00      1.00      1.00       360
